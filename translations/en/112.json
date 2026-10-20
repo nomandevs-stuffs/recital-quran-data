@@ -1,0 +1,23 @@
+{
+  "surah": 112,
+  "name": "Al-Ikhlas",
+  "translator": "Yusuf Ali",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "Say: He is Allah, the One and Only;"
+    },
+    {
+      "number": 2,
+      "text": "Allah, the Eternal, Absolute;"
+    },
+    {
+      "number": 3,
+      "text": "He begetteth not, nor is He begotten;"
+    },
+    {
+      "number": 4,
+      "text": "And there is none like unto Him."
+    }
+  ]
+}
