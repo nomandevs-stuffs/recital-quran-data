@@ -6,23 +6,33 @@
   "ayahs": [
     {
       "number": 1,
-      "text": ""
+      "text": "",
+      "group_start": null,
+      "group_end": null
     },
     {
       "number": 2,
-      "text": ""
+      "text": "",
+      "group_start": null,
+      "group_end": null
     },
     {
       "number": 3,
-      "text": ""
+      "text": "",
+      "group_start": null,
+      "group_end": null
     },
     {
       "number": 4,
-      "text": ""
+      "text": "",
+      "group_start": null,
+      "group_end": null
     },
     {
       "number": 5,
-      "text": ""
+      "text": "",
+      "group_start": null,
+      "group_end": null
     }
   ]
 }
