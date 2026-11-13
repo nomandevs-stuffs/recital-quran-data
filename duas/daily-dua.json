@@ -1,0 +1,1001 @@
+{
+  "category": "daily-dua",
+  "name": {
+    "en": "Daily Dua",
+    "bn": "দৈনন্দিন দোয়া"
+  },
+  "languages": [
+    "en",
+    "bn"
+  ],
+  "duas": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Supplication Before Sleeping",
+        "bn": "ঘুমানোর আগের দোয়া"
+      },
+      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوْتُ وَأَحْيَا",
+      "transliteration": {
+        "en": "Bismika Allāhumma amūtu wa aḥyā",
+        "bn": "বিসমিকা আল্লাহুম্মা আমূতু ওয়া আহইয়া"
+      },
+      "translation": {
+        "en": "In Your name, O Allah, I die and I live.",
+        "bn": "হে আল্লাহ! আপনার নামে আমি মৃত্যুবরণ করছি এবং জীবিত হচ্ছি।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "The Prophet, sallallahu 'alayhi wa sallam, always started and ended his day with dhikr.",
+        "bn": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সবসময় তাঁর দিন শুরু ও শেষ করতেন জিকির দিয়ে।"
+      },
+      "reference": "HR. al-Bukhari",
+      "source_type": "hadith"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Supplication Upon Waking Up",
+        "bn": "ঘুম থেকে জেগে ওঠার দোয়া"
+      },
+      "arabic": "الحَمْدُ للهِ الَّذِي أَحْيَانَا بعْدَ مَا أماتَنَا وإِلَيْهِ النُّشُورُ",
+      "transliteration": {
+        "en": "Alhamdulillāhillażī aḥyānā ba'da mā amātanā wa ilaihin nusyūr",
+        "bn": "আলহামদুলিল্লাহিল্লাযী আহইয়ানা বা'দা মা আমাতানা ওয়া ইলাইহিন নুশুর"
+      },
+      "translation": {
+        "en": "All praise is for Allah who gives us life after He has caused us to die, and to Him is the resurrection.",
+        "bn": "সমস্ত প্রশংসা সেই আল্লাহর, যিনি আমাদের মৃত্যুর (ঘুমের) পর জীবন্ত করেছেন এবং তাঁরই কাছে পুনরুত্থান।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "By reciting the supplication above, a servant begins his day by praising the name of Allah, the Giver of Life and the Bringer of Death.",
+        "bn": "এই দোয়া পাঠের মাধ্যমে একজন বান্দা জীবনীশক্তি ও মৃত্যু দেওয়ার ক্ষমতার অধিকারী আল্লাহর প্রশংসা দিয়ে তাঁর দিন শুরু করে।"
+      },
+      "reference": "HR. Bukhari: 6327",
+      "source_type": "hadith"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Supplication Entering the Bathroom",
+        "bn": "বাথরুমে প্রবেশের দোয়া"
+      },
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+      "transliteration": {
+        "en": "Allāhumma innī a'ūżu bika minal khubutsi wal khabāits",
+        "bn": "আল্লাহুম্মা ইন্নী আ'উযু বিকা মিনাল খুবুছি ওয়াল খাবায়িছ"
+      },
+      "translation": {
+        "en": "O Allah, I seek refuge in You from the evil and the wicked.",
+        "bn": "হে আল্লাহ! আমি আপনার কাছে আশ্রয় চাই মন্দ (পুরুষ ও নারী) জিন ও শয়তানদের থেকে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "This supplication acts as a barrier between a servant's private parts and the jinn when entering the bathroom.",
+        "bn": "এই দোয়া বাথরুমে প্রবেশের সময় বান্দার সাথে খারাপ জিনিসের (জিন) মাঝে এটি একটি বাধা হিসেবে কাজ করে।"
+      },
+      "reference": "HR. al-Bukhari and Muslim",
+      "source_type": "hadith"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Supplication Leaving the Bathroom",
+        "bn": "বাথরুম থেকে বের হওয়ার দোয়া"
+      },
+      "arabic": "غُفْرَانَكَ",
+      "transliteration": {
+        "en": "Ghufrānaka",
+        "bn": "গুফরানাকা"
+      },
+      "translation": {
+        "en": "I ask for Your forgiveness (O Allah).",
+        "bn": "আপনার কাছে ক্ষমা প্রার্থনা করছি (হে আল্লাহ!)।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "The bathroom is one of the homes of the jinn and devils, so it is recommended to ask for forgiveness for any mistakes, intentional or unintentional, made while in the bathroom.",
+        "bn": "বাথরুম জিন ও শয়তানের একটি আবাসস্থল; তাই বাথরুমে থাকাকালীন ইচ্ছেকৃত বা অনিচ্ছাকৃত যেকোনো ভুলের জন্য ক্ষমা চাওয়া উত্তম।"
+      },
+      "reference": "HR. at-Tirmidzi",
+      "source_type": "hadith"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Supplication Before Eating",
+        "bn": "খাওয়ার আগের দোয়া"
+      },
+      "arabic": "بِسْمِ اللَّهِ",
+      "transliteration": {
+        "en": "Bismillāh",
+        "bn": "বিসমিল্লাহ"
+      },
+      "translation": {
+        "en": "In the name of Allah.",
+        "bn": "আল্লাহর নামে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "The benefit of reciting Bismillah before eating is to prevent Satan from joining humans in eating.",
+        "bn": "খাওয়ার আগে বিসমিল্লাহ পাঠের উপকারিতা হলো তা শয়তানকে মানুষের সাথে খাওয়ায় অংশীদার হওয়া থেকে বিরত রাখে।"
+      },
+      "reference": "HR. al-Bukari No. 5376 and Muslim No. 2022",
+      "source_type": "hadith"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Supplication If Forgetting Bismillah at the Beginning of a Meal",
+        "bn": "খাবারের শুরুতে বিসমিল্লাহ বলতে ভুলে গেলে"
+      },
+      "arabic": "بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
+      "transliteration": {
+        "en": "Bismillāhi awwalahu wa ākhirahu",
+        "bn": "বিসমিল্লাহি আওওয়ালাহু ওয়া আখিরাহ"
+      },
+      "translation": {
+        "en": "In the name of Allah, at its beginning and its end.",
+        "bn": "আল্লাহর নামে — এর শুরুতে ও শেষে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Islam pays great attention to etiquette. If someone forgets to recite the supplication before eating at the beginning, it is still recommended to recite it in the middle, even if there is only a spoonful of rice left.",
+        "bn": "ইসলাম শিষ্টাচারের প্রতি অনেক গুরুত্ব দেয়। কেউ যদি খাবারের শুরুতে বিসমিল্লাহ বলতে ভুলে যায়, তবে মধ্যভাগে পড়ার পরামর্শ দেওয়া হয়েছে, যদিও এক চামচ ভাত বাকি থাকে।"
+      },
+      "reference": "HR. Abu Dawud",
+      "source_type": "hadith"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "Supplication After Eating",
+        "bn": "খাওয়ার পরের দোয়া"
+      },
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِى أَطْعَمَنِى هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّى وَلاَ قُوَّةٍ",
+      "transliteration": {
+        "en": "Alhamdulillāhillażī aṭ‘amanī hāżā wa razaqanīhi min ghayri ḥawlin minnī wa lā quwwatin",
+        "bn": "আলহামদুলিল্লাহিল্লাযী আত'আমানী হাযা ওয়া রাযাক্কানীহি মিন গাইরি হাওলিন মিন্নী ওয়া লা কুওয়াহ"
+      },
+      "translation": {
+        "en": "All praise is to Allah who has fed me this and provided for me without any power or strength from me.",
+        "bn": "সমস্ত প্রশংসা সেই আল্লাহর, যিনি আমাকে এটি খাওয়াতেন এবং আমার শক্তি ও সামর্থ্য ছাড়াই আমাকে রিজিক দান করেছেন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "The Messenger of Allah, sallallahu 'alayhi wa sallam, said that if someone recites this supplication, then his past sins will be forgiven.",
+        "bn": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি এই দোয়া পাঠ করে, তার পূর্ববর্তী গুনাহ ক্ষমা করে দেওয়া হয়।"
+      },
+      "reference": "Shahih at-Tirmidzi",
+      "source_type": "hadith"
+    },
+    {
+      "id": 8,
+      "title": {
+        "en": "Supplication Entering the Mosque",
+        "bn": "মসজিদে প্রবেশের দোয়া"
+      },
+      "arabic": "اَللَّهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ",
+      "transliteration": {
+        "en": "Allāhummaftaḥ lī abwāba raḥmatik",
+        "bn": "আল্লাহুম্মাফতাহলী আবওয়াবা রহমাতিক"
+      },
+      "translation": {
+        "en": "O Allah, open the doors of Your mercy for me.",
+        "bn": "হে আল্লাহ! আমার জন্য আপনার রহমতের দরজাগুলো খুলে দিন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "The mosque is the house of Allah; a servant should honor it and hope for Allah's mercy within it.",
+        "bn": "মসজিদ আল্লাহর ঘর; বান্দার উচিত তা সম্মান করা এবং তাঁর রহমতের আশা করা।"
+      },
+      "reference": "HR. Muslim",
+      "source_type": "hadith"
+    },
+    {
+      "id": 9,
+      "title": {
+        "en": "Supplication Leaving the Mosque",
+        "bn": "মসজিদ থেকে বের হওয়ার দোয়া"
+      },
+      "arabic": "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ",
+      "transliteration": {
+        "en": "Allāhumma innī as'aluka min faḍlik",
+        "bn": "আল্লাহুম্মা ইন্নী আস'আলুকা মিন ফাদলিক"
+      },
+      "translation": {
+        "en": "O Allah, I ask You for Your bounty.",
+        "bn": "হে আল্লাহ! আমি আপনার কাছে আপনার অনুগ্রহ প্রার্থনা করছি।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Allah's earth is vast, and there are many ways to seek provision. A servant should ask for Allah's bounty to be facilitated in obtaining the provision that Allah has distributed to all His servants.",
+        "bn": "আল্লাহর জমিন বিশাল এবং রিজিকের অনেক উপায় আছে। একজন বান্দার উচিত আল্লাহর অনুগ্রহের সন্ধান করা, যাতে আল্লাহ তাঁর সব বান্দার মাঝে ভাগ করা রিজিক সহজে অর্জন করতে পারে।"
+      },
+      "reference": "HR. Muslim No. 713",
+      "source_type": "hadith"
+    },
+    {
+      "id": 10,
+      "title": {
+        "en": "Supplication Before Performing Ablution",
+        "bn": "ওজুর আগের দোয়া"
+      },
+      "arabic": "بِسْمِ اللَّهِ",
+      "transliteration": {
+        "en": "Bismillāh",
+        "bn": "বিসমিল্লাহ"
+      },
+      "translation": {
+        "en": "In the name of Allah.",
+        "bn": "আল্লাহর নামে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "It is prescribed to begin every important matter by saying Bismillah, whether it be an act of worship or otherwise.",
+        "bn": "প্রতিটি গুরুত্বপূর্ণ কাজ বিসমিল্লাহ দিয়ে শুরু করা বিধেয় (ফরজ বা সুন্নত), হোক তা ইবাদত হোক বা অন্য যেকোনো কাজ।"
+      },
+      "reference": "HR. at-Tirmidzi and al-Baihaqi",
+      "source_type": "hadith"
+    },
+    {
+      "id": 11,
+      "title": {
+        "en": "Supplication After Performing Ablution",
+        "bn": "ওজুর পরের দোয়া"
+      },
+      "arabic": "أشْهَدُ أنْ لا إله إِلاَّ اللَّهُ وَحْدَهُ لا شَرِيك لَهُ ، وأشْهَدُ أنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ ، اللَّهُمَّ اجْعَلْنِي مِنَ التَوَّابِينَ ، واجْعَلْني مِنَ المُتَطَهِّرِينَ ، سُبْحانَكَ اللَّهُمَّ وبِحَمْدِكَ ، أشْهَدُ أنْ لا إلهَ إِلاَّ أنْتَ ، أسْتَغْفِرُكَ وأتُوبُ إِلَيْكَ",
+      "transliteration": {
+        "en": "Asyhadu an lā ilāha illāllāh waḥdahu lā syarīka lahu, wa asyhadu anna muḥammadan 'abduhu wa rasūluh. Allāhummaj'alnī minat tawwābīna waj'alnī minal mutaṭahhirīna. Subḥānakallāhumma wa biḥamdika asyhadu an lā ilāha illā anta astaghfiruka wa atūbu ilaik",
+        "bn": "আশহাদু আন লা ইলাহা ইল্লাল্লাহু ওয়াহদাহু লা শারিকা লাহু, ওয়া আশহাদু আন্না মুহাম্মাদান আ'বদুহু ওয়া রাসূলুহু। আল্লাহুম্মাজ'আলনী মিনাত তাওওয়াবীনা, ওয়াজ'আলনী মিনাল মুতাত্বাহহিরীন। সুবহানাকা আল্লাহুম্মা ওয়া বিহামদিকা, আশহাদু আন লা ইলাহা ইল্লা আন্তা, আসতাগফিরুকা ওয়া আতূবু ইলাইক"
+      },
+      "translation": {
+        "en": "I bear witness that there is no deity except Allah alone, with no partner, and I bear witness that Muhammad is His servant and Messenger. O Allah, make me among those who repent and make me among those who purify themselves. Glory be to You, O Allah, and with Your praise, I bear witness that there is no deity except You. I seek Your forgiveness and repent to You.",
+        "bn": "আমি সাক্ষ্য দিচ্ছি আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি একক, তাঁর কোনো শরিক নেই; এবং আমি সাক্ষ্য দিচ্ছি মুহাম্মাদ আল্লাহর বান্দা ও তাঁর রাসূল। হে আল্লাহ! আমাকে তাওবাকারীদের অন্তর্ভুক্ত করুন এবং আমাকে পবিত্রতা অর্জনকারীদের অন্তর্ভুক্ত করুন। আপনি পবিত্র, হে আল্লাহ, এবং আপনাকে প্রশংসা করা হচ্ছে; আমি সাক্ষ্য দিচ্ছি আপনি ছাড়া কোনো ইলাহ নেই; আমি আপনার কাছে ক্ষমা প্রার্থনা করছি এবং আপনারই দিকে ফিরে আসছি।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Whoever recites this supplication, eight gates of Paradise will be opened for him, and he may enter from whichever gate he wishes.",
+        "bn": "যে ব্যক্তি এই দোয়া পাঠ করে, তার জন্য জান্নাতের আটটি দরজা খোলা হয় এবং সে যে দরজা দিয়ে ইচ্ছা প্রবেশ করতে পারে।"
+      },
+      "reference": "HR. Muslim, at-Tirmidzi and an-Nasa'i",
+      "source_type": "hadith"
+    },
+    {
+      "id": 12,
+      "title": {
+        "en": "Supplication for Breaking the Fast",
+        "bn": "রোজা ভাঙ্গার দোয়া"
+      },
+      "arabic": "ذَهَبَ الظَّمَأُ وابْتَلَّتِ الْعُرُوقُ وثَبَتَ اْلأَجْرُ إِنْ شَاءَاللهُ",
+      "transliteration": {
+        "en": "Żahabaẓẓama'u wabtallatil 'urūq wa ṡabatal ajru in syā'a Allāh",
+        "bn": "যাহাবায্ জামাউ ওয়াবতাল্লাতিল উরূক্ব ওয়া ছাবাতাল আজরু ইন শাআল্লাহ"
+      },
+      "translation": {
+        "en": "The thirst has gone, the veins are moistened, and the reward is confirmed, Insha Allah.",
+        "bn": "তৃষ্ণা দূর হয়েছে, শিরাগুলো সিক্ত হয়েছে এবং সাওয়াব স্থির হয়েছে, ইনশাআল্লাহ।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "It is highly recommended for those who are fasting to increase their supplications before and after breaking the fast, because the supplication of a fasting person is one of the three supplications that are not rejected.",
+        "bn": "রোজাদারদের জন্য রোজা ভাঙ্গার আগে ও পরে দোয়া বেশি বেশি করা অত্যন্ত গুরুত্বপূর্ণ; কারণ রোজাদারের দোয়া সেই তিনটি দোয়ার একটি যা ফিরিয়ে দেওয়া হয় না।"
+      },
+      "reference": "HR. Abu Daud, As-Sunan Al-Kubra Lil Baihaqi, Vol. 4, p. 239, al-Hakim in Mustadrak 'alas Shahihain No. 1484",
+      "source_type": "hadith"
+    },
+    {
+      "id": 13,
+      "title": {
+        "en": "Supplication Entering the House #1",
+        "bn": "ঘরে প্রবেশের দোয়া #১"
+      },
+      "arabic": "اَلسَّلَامُ عَلَيْكُمْ",
+      "transliteration": {
+        "en": "Assalāmu 'alaykum",
+        "bn": "আসসালামু আলাইকুম"
+      },
+      "translation": {
+        "en": "Peace be upon you.",
+        "bn": "আপনাদের উপর শান্তি বর্ষিত হোক।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "The greeting is a supplication of hope, a hope that you will be safe from all kinds of sorrow and suffering, and be enveloped in mercy and blessings.",
+        "bn": "সালাম একটি আশাবাহক দোয়া; এর মাধ্যমে আশা করা হয় যে আপনি সব ধরনের দুঃখ-কষ্ট থেকে নিরাপদ থাকবেন এবং রহমত ও বরকতে আবৃত হবেন।"
+      },
+      "reference": "HR. at-Tirmidzi",
+      "source_type": "hadith"
+    },
+    {
+      "id": 14,
+      "title": {
+        "en": "Supplication Entering the House #2",
+        "bn": "ঘরে প্রবেশের দোয়া #২"
+      },
+      "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَا تُهُ",
+      "transliteration": {
+        "en": "Assalāmu 'alaykum warahmatullāhi wabarakātuh",
+        "bn": "আসসালামু আলাইকুম ওয়া রহমাতুল্লাহি ওয়া বারাকাতুহু"
+      },
+      "translation": {
+        "en": "Peace, mercy, and blessings of Allah be upon you.",
+        "bn": "আপনাদের উপর আল্লাহর শান্তি, রহমত ও বরকত।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "The greeting is a supplication of hope, a hope that you will be safe from all kinds of sorrow and suffering, and be enveloped in mercy and blessings.",
+        "bn": "সালাম একটি আশাবাহক দোয়া; এর মাধ্যমে আশা করা হয় যে আপনি সব ধরনের দুঃখ-কষ্ট থেকে নিরাপদ থাকবেন এবং রহমত ও বরকতে আবৃত হবেন।"
+      },
+      "reference": "HR. at-Tirmidzi",
+      "source_type": "hadith"
+    },
+    {
+      "id": 15,
+      "title": {
+        "en": "Supplication Leaving the House",
+        "bn": "ঘর থেকে বের হওয়ার দোয়া"
+      },
+      "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "transliteration": {
+        "en": "Bismillāh, tawakkaltu 'alallāh, lā haula wa lā quwwata illā billāh",
+        "bn": "বিসমিল্লাহ, তাওয়াককালতু আলাল্লাহ, লা হাওলা ওয়া লা কুওয়াতা ইল্লা বিল্লাহ"
+      },
+      "translation": {
+        "en": "In the name of Allah, I place my trust in Allah. There is no might nor power except with Allah.",
+        "bn": "আল্লাহর নামে, আমি আল্লাহর উপর ভরসা করলাম। আল্লাহর সাহায্য ছাড়া কোনো শক্তি ও ক্ষমতা নেই।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Whoever recites this supplication, it will be said to him: \"You will be guided, sufficed, and protected.\" Satan will then depart from him. Another satan will say: \"How can you harm someone who has been guided, sufficed, and protected?!\"",
+        "bn": "যে ব্যক্তি এই দোয়া পাঠ করে, তাকে বলা হয়: 'তুমি হিদায়াতপ্রাপ্ত, তোমার জন্য যথেষ্ট এবং তুমি সুরক্ষিত।' তখন শয়তান তার কাছ থেকে চলে যায়। অন্য শয়তান বলে: 'কীভাবে তুমি এমন ব্যক্তিকে কষ্ট দিতে পারো যে হিদায়াতপ্রাপ্ত, যার জন্য যথেষ্ট এবং সুরক্ষিত?'"
+      },
+      "reference": "HR. Abu Dawud and at-Tirmidzi",
+      "source_type": "hadith"
+    },
+    {
+      "id": 16,
+      "title": {
+        "en": "Supplication for Protection from Causing or Experiencing Harm Outside the House",
+        "bn": "বাড়ির বাইরে ক্ষতির হাত থেকে রক্ষার দোয়া"
+      },
+      "arabic": "اللَّهُمَّ إِنِّى أَعُوذُ بِكَ أَنْ أَضِلَّ أَوْ أُضَلَّ أَوْ أَزِلَّ أَوْ أُزَلَّ أَوْ أَظْلِمَ أَوْ أُظْلَمَ أَوْ أَجْهَلَ أَوْ يُجْهَلَ عَلَىَّ",
+      "transliteration": {
+        "en": "Allāhumma innī a'ūżu bika an adhilla au udholla, au azilla au azulla, au azhlima au uzhlama, au ajhala au yujhala 'alayya",
+        "bn": "আল্লাহুম্মা ইন্নী আ'উযু বিকা আন আদিল্লা আও উদ্বাল্লা, আও আযিল্লা আও উযাল্লা, আও আযলিমা আও উজলামা, আও আজহালা আও ইউজহালা আলাইয়্যা"
+      },
+      "translation": {
+        "en": "O Allah, I seek refuge in You lest I should stray or be led astray, slip or be tripped, wrong or be wronged, or act foolishly or have foolishness done to me.",
+        "bn": "হে আল্লাহ! আমি আপনার আশ্রয় চাই যেন আমি পথভ্রষ্ট না হই বা পথভ্রষ্ট না করা হই, আমি যেন পিছলে না পড়ি বা পড়তে না দেওয়া হই, আমি যেন অন্যায় না করি বা অন্যায়ের শিকার না হই, অথবা আমি যেন মূর্খতা না করি বা আমার সাথে মূর্খতা না করা হয়।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "When a person leaves the house, they will encounter all kinds of things, both good and bad, especially harm caused by themselves. Therefore, it is commanded to seek refuge from oneself and from others.",
+        "bn": "বাড়ির বাইরে গেলে মানুষ সব ধরনের ভালো ও মন্দ ঘটনার সম্মুখীন হতে পারে, বিশেষত নিজের করা ক্ষতির। তাই নিজেকে এবং অন্যদের থেকে আশ্রয় প্রার্থনা করা আদিষ্ট।"
+      },
+      "reference": "HR. Abu Dawud, at-Tirmidzi, Ibn Majah and an-Nasa'i",
+      "source_type": "hadith"
+    },
+    {
+      "id": 17,
+      "title": {
+        "en": "Travel Supplication",
+        "bn": "সফরের দোয়া"
+      },
+      "arabic": "الله أَكْبَرُ،الله أَكْبَرُ،الله أَكْبَرُ،سُبْحَانَ الَّذِى سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ اللَّهُمَّ إِنَّا نَسْأَلُكَ فِى سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ اللَّهُمَّ أَنْتَ الصَّاحِبُ فِى السَّفَرِ وَالْخَلِيفَةُ فِى الأَهْلِ اللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ وَكَآبَةِ الْمَنْظَرِ وَسُوءِ الْمُنْقَلَبِ فِى الْمَالِ وَالأَهْلِ",
+      "transliteration": {
+        "en": "Allāhu akbar, Allāhu akbar, Allāhu akbar. Subḥānallażī sakhkhara lanā hāżā wa mā kunnā lahū muqrinīn wa innā ilā rabbina lamunqalibūn. Allāhumma innā nas'aluka fī safarina hażāl birra wat taqwā wa minal 'amali mā tarḍā. Allāhumma hawwin 'alainā safaranā hāżā waṭwi 'annā bu'dah. Allāhumma anta ṣāḥibu fis safar wal khalīfatu fil ahli. Allāhumma innī a'ūżubika min wa'ṡā issafari wa kābatil manżari wa sū'il munqalabi fil māli wal ahli",
+        "bn": "আল্লাহু আকবার, আল্লাহু আকবার, আল্লাহু আকবার, সুবহানাল্লাহিল্লাযী সাখখারা লানা হাযা ওয়া মা কুন্না লাহু মুক্বরিনীন, ওয়া ইন্না ইলা রাব্বিনা লামুনক্বালিবুন। আল্লাহুম্মা ইন্না নাস'আলুকা ফি সাফারিনা হাযাল বিররা ওয়াত তাক্বওয়া, ওয়া মিনাল আ'মালি মা তারযা। আল্লাহুম্মা হাওউন আলাইনা সাফারানা হাযা ওয়াতবি আন্না বু'দাহ। আল্লাহুম্মা আন্তাস সাহিবু ফিস সাফার ওয়াল খলিফাতু ফিল আহল। আল্লাহুম্মা ইন্নী আ'উযু বিকা মিন ওয়া'ছায়িস সাফার, ওয়া কাআবাতিল মানযার, ওয়া সুইল মুনক্বালাবি ফিল মালি ওয়াল আহল"
+      },
+      "translation": {
+        "en": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest. Glory be to Him who has provided this for us, though we could never have had it by our own efforts. Surely to our Lord we are returning. O Allah, we ask You for righteousness and piety in this journey of ours, and for deeds that please You. O Allah, lighten for us the hardship of this journey and quickly bring us to our destination. O Allah, You are our Companion on the journey and the Guardian of our families. O Allah, I seek refuge in You from the hardship of travel, from a bad return, and from seeing something unpleasant concerning our wealth, family, or children.",
+        "bn": "আল্লাহ মহান, আল্লাহ মহান, আল্লাহ মহান। পবিত্র ও মহান তিনি, যিনি আমাদের জন্য এটিকে বশীভূত করেছেন, যদিও আমরা এটিকে বশীভূত করতে সক্ষম ছিলাম না। নিশ্চয় আমরা আমাদের রবের কাছে প্রত্যাবর্তনকারী। হে আল্লাহ! আমরা আপনার কাছে আমাদের এই সফরে নেকি ও তাকওয়া এবং আপনার সন্তুষ্টি অনুযায়ী আমল প্রার্থনা করছি। হে আল্লাহ! আমাদের এই সফরকে আমাদের জন্য সহজ করুন এবং এর দূরত্ব আমাদের কাছে নিকট করে দিন। হে আল্লাহ! আপনি সফরে আমাদের সঙ্গী এবং পরিবারে আমাদের অভিভাবক। হে আল্লাহ! আমি আপনার কাছে আশ্রয় চাই সফরের যাতনা, দৃশ্যের বিপর্যয় এবং ধন-সম্পদ ও পরিবারের মন্দ পরিণতি থেকে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "This supplication has two parts. The first is praise of Allah and the submission of the servant. The second is a request to Allah for ease in travel and in the affairs of what the servant has left at home.",
+        "bn": "এই দোয়ার দুটি অংশ: প্রথম অংশে আল্লাহর প্রশংসা ও বান্দার আনুগত্য, আর দ্বিতীয় অংশে সফর সহজ করার এবং বাড়িতে অবশিষ্ট বিষয়গুলোতে সহজতার প্রার্থনা।"
+      },
+      "reference": "HR. Muslim",
+      "source_type": "hadith"
+    },
+    {
+      "id": 18,
+      "title": {
+        "en": "Supplication of a Resident for Someone Who is Traveling",
+        "bn": "মুসাফিরের জন্য অবস্থানরত ব্যক্তির দোয়া"
+      },
+      "arabic": "أَسْتَوْدِعُ اللَّهَ دِينَكَ وَأَمَانَتَكَ وَخَوَاتِيمَ عَمَلِكَ",
+      "transliteration": {
+        "en": "Astawdi'ullaha dīnaka, wa amānataka, wa khawātīma a'mālik",
+        "bn": "আস্তাওদি'উল্লাহা দ্বীনাকা ওয়া আমানাতাকা ওয়া খাওয়াতীমা আ'মালিক"
+      },
+      "translation": {
+        "en": "I entrust your religion, your trust, and the end of your deeds to Allah.",
+        "bn": "আমি আপনার দীন, আপনার আমানত ও আপনার আমলের সমাপ্তি আল্লাহর কাছে সমর্পণ করছি।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Three priorities of a servant that must be maintained everywhere: religion, trust, and deeds, because a person will be resurrected according to their deeds.",
+        "bn": "বান্দার তিনটি প্রধান বিষয় সর্বত্র রক্ষা করতে হবে: দীন, আমানত ও আমল; কারণ মানুষ তার আমল অনুযায়ী পুনরুত্থিত হবে।"
+      },
+      "reference": "HR. Abu Dawud: 2601",
+      "source_type": "hadith"
+    },
+    {
+      "id": 19,
+      "title": {
+        "en": "Supplication for Piety from a Resident to Someone Who is Traveling",
+        "bn": "মুসাফিরকে তাকওয়ার দোয়া"
+      },
+      "arabic": "زَوَّدَكَ اللَّهُ التَّقْوَى وَغَفَرَ ذَنْبَكَ  وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُمَا كُنْتَ",
+      "transliteration": {
+        "en": "Zawwadakallāhut taqwā wa ghafara żanbaka wa yassara lakal khaira ḥayṡumā kunta",
+        "bn": "যাওওয়াদাকাল্লাহুত তাক্বওয়া, ওয়া গাফারা যানবাকা, ওয়া ইয়াসসারা লাকাল খাইরা হাইছুমা কুনতা"
+      },
+      "translation": {
+        "en": "May Allah provide you with piety, forgive your sins, and ease goodness for you wherever you are.",
+        "bn": "আল্লাহ আপনাকে তাকওয়া দান করুন, আপনার গুনাহ ক্ষমা করুন এবং আপনি যেখানেই থাকুন আপনার জন্য কল্যাণ সহজ করে দিন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Piety is the best provision that a servant must prepare for the Hereafter, because there is no salvation except through piety.",
+        "bn": "তাকওয়া সবচেয়ে উত্তম সঞ্চয়, যা একজন বান্দার আখিরাতের প্রস্তুতির জন্য আবশ্যক; কারণ তাকওয়া ছাড়া কোনো মুক্তি নেই।"
+      },
+      "reference": "HR. at-Tirmidzi",
+      "source_type": "hadith"
+    },
+    {
+      "id": 20,
+      "title": {
+        "en": "Supplication When Wearing New Clothes",
+        "bn": "নতুন কাপড় পরার দোয়া"
+      },
+      "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيهِ أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ",
+      "transliteration": {
+        "en": "Allāhumma lakal ḥamdu anta kasautanīh, as'aluka min khairihī wa khairi mā ṣuni'a lah, wa a'ūdzu bika min syarrihī wa syarri mā ṣuni'a lah",
+        "bn": "আল্লাহুম্মা লাকাল হামদু আন্তা কাসাওতানীহি, আস'আলুকা মিন খাইরিহি ওয়া খাইরি মা সুনি'আ লাহু, ওয়া আ'উযু বিকা মিন শাররিহি ওয়া শাররি মা সুনি'আ লাহু"
+      },
+      "translation": {
+        "en": "O Allah, to You is all praise. You have clothed me with this. I ask You for its goodness and the goodness for which it was made, and I seek refuge in You from its evil and the evil for which it was made.",
+        "bn": "হে আল্লাহ! প্রশংসা আপনারই। আপনি আমাকে এটি পরিয়েছেন। আমি আপনার কাছে এর কল্যাণ এবং যে উদ্দেশ্যে এটি তৈরি করা হয়েছে তার কল্যাণ প্রার্থনা করছি; এবং আমি আপনার আশ্রয় চাই এর অনিষ্ট এবং যে উদ্দেশ্যে এটি তৈরি করা হয়েছে তার অনিষ্ট থেকে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "By reciting this supplication, one asks that the clothes they have bought may provide goodness and also be a protection against various evils.",
+        "bn": "এই দোয়া পাঠের মাধ্যমে প্রার্থনা করা হয় যে কেনা কাপড়টি যেন কল্যাণ বয়ে আনে এবং বিভিন্ন অনিষ্ট থেকে রক্ষা করে।"
+      },
+      "reference": "HR. Ahmad, Abu Dawud, at-Tirmidzi and Al-Hakim",
+      "source_type": "hadith"
+    },
+    {
+      "id": 21,
+      "title": {
+        "en": "Supplication When Wearing Clothes",
+        "bn": "কাপড় পরার দোয়া"
+      },
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِى كَسَانِى هَذَا الثَّوْبَ وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّى وَلاَ قُوَّةٍ",
+      "transliteration": {
+        "en": "Alhamdulillāhillażī kasānī hāżā wa razaqanīhi min ghayri ḥawlin minnī wa lā quwwatin",
+        "bn": "আলহামদুলিল্লাহিল্লাযী কাসানী হাযাছ সাওবা ওয়া রাযাক্বানীহি মিন গাইরি হাওলিন মিন্নী ওয়া লা কুওয়াহ"
+      },
+      "translation": {
+        "en": "Praise be to Allah who has clothed me with this garment and provided it for me without any power or strength from me.",
+        "bn": "প্রশংসা সেই আল্লাহর, যিনি আমাকে এই পোশাক পরিয়েছেন এবং আমার শক্তি ও সামর্থ্য ছাড়াই আমাকে রিজিক দান করেছেন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "The virtue of reciting this supplication is that past sins will be forgiven, Insha Allah.",
+        "bn": "এই দোয়া পাঠের ফযীলত হলো পূর্ববর্তী গুনাহ ক্ষমা করে দেওয়া হবে, ইনশাআল্লাহ।"
+      },
+      "reference": "HR. all compilers of Sunan books, except Nasa'i",
+      "source_type": "hadith"
+    },
+    {
+      "id": 22,
+      "title": {
+        "en": "Supplication When Mounting a Vehicle",
+        "bn": "যানবাহনে আরোহণের দোয়া"
+      },
+      "arabic": "بِسْمِ اللَّهِ، بِسْمِ اللَّهِ، بِسْمِ اللَّهِ، الحَمْدُ للِه، سُبْحَانَ الَّذِى سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ، سُبْحَانَكَ إِنِّى قَدْ ظَلَمْتُ نَفْسِى فَاغْفِرْ لِى فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+      "transliteration": {
+        "en": "Bismillāh, bismillāh, bismillāh. Alḥamdulillāh. Subḥānallażī sakhkhara lanā hāżā wa mā kunnā lahu muqrinīn wa innā ilā rabbinā lamunqalibūn. Subḥānaka innī qad ẓalamtu nafsī faghfir lī fa innahu lā yaghfiru aẓ ẓunūba illā anta",
+        "bn": "বিসমিল্লাহ, বিসমিল্লাহ, বিসমিল্লাহ। আলহামদুলিল্লাহ। সুবহানাল্লাহিল্লাযী সাখখারা লানা হাযা ওয়া মা কুন্না লাহু মুক্বরিনীন, ওয়া ইন্না ইলা রাব্বিনা লামুনক্বালিবুন। সুবহানাকা ইন্নী ক্বাদ যলামতু নাফসী, ফাগফির লী, ফাইন্নাহু লা ইয়াগফিরুয যুনূবা ইল্লা আন্তা"
+      },
+      "translation": {
+        "en": "In the name of Allah, in the name of Allah, in the name of Allah. All praise is to Allah. Glory be to Him who has subjected this to us, and we could not have done so by ourselves. And indeed, to our Lord we will return. Glory be to You, indeed I have wronged myself, so forgive me, for none can forgive sins except You.",
+        "bn": "আল্লাহর নামে, আল্লাহর নামে, আল্লাহর নামে। প্রশংসা আল্লাহর। পবিত্র ও মহান তিনি, যিনি আমাদের জন্য এটিকে বশীভূত করেছেন, আমরা এটিকে বশীভূত করতে সক্ষম ছিলাম না। নিশ্চয় আমরা আমাদের রবের কাছে প্রত্যাবর্তনকারী। আপনি পবিত্র; আমি আমার নিজের উপর অন্যায় করেছি, অতএব আমাকে ক্ষমা করুন; আপনি ছাড়া গুনাহ ক্ষমা করার কেউ নেই।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "By reciting the supplication for mounting a vehicle, our journey will always be under the protection of Allah. In addition, we will also receive rewards, help, and a calmer heart.",
+        "bn": "যানবাহনে আরোহণের এই দোয়া পাঠ করলে আমাদের সফর সবসময় আল্লাহর নিরাপত্তায় থাকে। এছাড়া আমরা নেকি, সাহায্য ও প্রশান্ত হৃদয় লাভ করি।"
+      },
+      "reference": "HR. Abu Dawud and at-Tirmidzi",
+      "source_type": "hadith"
+    },
+    {
+      "id": 23,
+      "title": {
+        "en": "Supplication When it Rains",
+        "bn": "বৃষ্টি শুরু হলে দোয়া"
+      },
+      "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+      "transliteration": {
+        "en": "Allahumma shayyiban nāfi'ā",
+        "bn": "আল্লাহুম্মা শাইয়্যিবান নাফি'আ"
+      },
+      "translation": {
+        "en": "O Allah, make it a beneficial rain.",
+        "bn": "হে আল্লাহ! এটিকে কল্যাণকর বৃষ্টি করুন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "It is encouraged to pray when it rains so that goodness and blessings increase, as well as its benefits.",
+        "bn": "বৃষ্টি হলে দোয়া করা উৎসাহিত; কারণ এতে কল্যাণ, বরকত ও উপকারিতা বৃদ্ধি পায়।"
+      },
+      "reference": "HR. al-Bukhari No. 1032",
+      "source_type": "hadith"
+    },
+    {
+      "id": 24,
+      "title": {
+        "en": "Supplication During Heavy Rain",
+        "bn": "ভারী বৃষ্টির সময় দোয়া"
+      },
+      "arabic": "اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا ، اللَّهُمَّ عَلَى الآكَامِ وَالظِّرَابِ وَبُطُونِ الأَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ",
+      "transliteration": {
+        "en": "Allahumma hāwalaina wa lā 'alaina. Allahumma 'alal ākami wal jibāli, wazh zhiroobi, wa buthunil awdiyati, wa manābitisy syajari",
+        "bn": "আল্লাহুম্মা হাওয়ালেইনা ওয়া লা আলাইনা। আল্লাহুম্মা আলাল আকামি ওয়ায যিরাবি ওয়া বুতুনিল আওদিয়াতি ওয়া মানাবিতিশ শাজার"
+      },
+      "translation": {
+        "en": "O Allah, (let the rain fall) around us, not on us. O Allah, (let it fall) on the hills, mountains, small mountains, valleys, and places where trees grow.",
+        "bn": "হে আল্লাহ! এটি আমাদের চারপাশে বর্ষণ করুন, আমাদের উপর নয়। হে আল্লাহ! এটি পাহাড়, পর্বত, ছোট পাহাড়, উপত্যকার তলদেশ এবং গাছপালা জন্মানো স্থানে বর্ষণ করুন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "The supplication above is recited when the rain gets heavier or there is a concern that the rain will cause harm.",
+        "bn": "এই দোয়া ভারী বৃষ্টি হলে বা বৃষ্টির কারণে ক্ষতির আশঙ্কা হলে পাঠ করা হয়।"
+      },
+      "reference": "HR. al-Bukhari No. 1014",
+      "source_type": "hadith"
+    },
+    {
+      "id": 25,
+      "title": {
+        "en": "Supplication After it Rains",
+        "bn": "বৃষ্টির পরের দোয়া"
+      },
+      "arabic": "مُطِرْنا بفَضْلِ اللهِ ورَحْمَتِهِ",
+      "transliteration": {
+        "en": "Muthirna bi fadhlillahi wa rohmatih",
+        "bn": "মুতীরনা বিফাদলিল্লাহি ওয়া রহমাতিহ"
+      },
+      "translation": {
+        "en": "We have been given rain by the bounty and mercy of Allah.",
+        "bn": "আমাদের আল্লাহর অনুগ্রহ ও রহমতে বৃষ্টি দেওয়া হয়েছে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "By reciting this supplication, one believes that rain falls by the will of Allah (Allah's virtue), not by the stars, so they do not become disbelievers in Allah.",
+        "bn": "এই দোয়া পাঠের মাধ্যমে বিশ্বাস জন্মে যে বৃষ্টি আল্লাহর ইচ্ছায় (তাঁর ফযলে) বর্ষিত হয়, নক্ষত্রের কারণে নয়; যাতে মানুষ আল্লাহর প্রতি অবিশ্বাসী না হয়।"
+      },
+      "reference": "HR. al-Bukhari No. 846 and Muslim No. 71",
+      "source_type": "hadith"
+    },
+    {
+      "id": 26,
+      "title": {
+        "en": "Supplication During Strong Wind",
+        "bn": "প্রচণ্ড বাতাসের সময় দোয়া"
+      },
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَأَعُوْذُ بِكَ مِنْ شَرِّهَا",
+      "transliteration": {
+        "en": "Allāhumma innī as'aluka khoirohā wa a'ūżubika min syarrihā",
+        "bn": "আল্লাহুম্মা ইন্নী আস'আলুকা খাইরাহা, ওয়া আ'উযু বিকা মিন শাররিহা"
+      },
+      "translation": {
+        "en": "O Allah, I ask You for the good of this wind, and I seek refuge in You from its evil.",
+        "bn": "হে আল্লাহ! আমি আপনার কাছে এর কল্যাণ প্রার্থনা করছি এবং এর অনিষ্ট থেকে আপনার আশ্রয় চাই।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Among the signs of Allah's power is a strong wind that can bring blessings and punishment, namely good and bad. Therefore, a servant should continue to ask for good and seek refuge from all harm.",
+        "bn": "আল্লাহর শক্তির নিদর্শনাবলীর মধ্যে একটি হলো শক্তিশালী বাতাস, যা বরকত ও শাস্তি উভয়ই নিয়ে আসতে পারে। তাই বান্দার উচিত সবসময় কল্যাণ চাওয়া এবং সব ধরনের অনিষ্ট থেকে আশ্রয় চাওয়া।"
+      },
+      "reference": "HR. Abu Dawud and Ibn Majah",
+      "source_type": "hadith"
+    },
+    {
+      "id": 27,
+      "title": {
+        "en": "The Best Supplication for Seeking Forgiveness (Sayyid al-Istighfar)",
+        "bn": "সর্বোত্তম ক্ষমা প্রার্থনার দোয়া (সাইয়্যিদুল ইস্তিগফার)"
+      },
+      "arabic": "اَللَّهُمَّ أَنْتَ رَبِّيْ ، لَا إِلٰـهَ إِلاَّ أَنْتَ خَلَقْتَنِيْ وَأَنَا عَبْدُكَ ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ ، أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ ، أَبُوْءُ لَكَ بِنِعْمتِكَ عَلَيَّ ، وَأَبُوْءُ بِذَنْبِيْ فَاغْفِرْ لِيْ ، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+      "transliteration": {
+        "en": "Allahumma anta rabbī lā ilāha illā anta khalaqtanī wa anna 'abduka wa anā 'alā 'ahdika wa wa'dika mastatha'tu a'ūżu bika min syarri mā shana'tu abū u laka bini' matika 'alayya wa abū u biżanbī faghfir lī fa innahu lā yaghfiruż żunūba illa anta",
+        "bn": "আল্লাহুম্মা আন্তা রাব্বি, লা ইলাহা ইল্লা আন্তা খালাক্বতানী ওয়া আনা আ'বদুকা, ওয়া আনা আলা আ'হদিকা ওয়া ওয়া'দিকা মাসতাত্বা'তু, আ'উযু বিকা মিন শাররি মা সানা'তু, আবুউ লাকা বিনি'মাতিকা আলাইয়া, ওয়া আবুউ বিযানবি ফাগফির লী, ফাইন্নাহু লা ইয়াগফিরুয যুনূবা ইল্লা আন্তা"
+      },
+      "translation": {
+        "en": "O Allah, You are my Lord. There is no deity worthy of worship except You. You created me, and I am Your servant. I abide to Your covenant and promise as best I can. I seek refuge in You from the evil of what I have done. I acknowledge Your blessings upon me, and I acknowledge my sin. So forgive me, for none can forgive sins except You.",
+        "bn": "হে আল্লাহ! আপনি আমার রব। আপনি ছাড়া কোনো ইলাহ নেই। আপনি আমাকে সৃষ্টি করেছেন এবং আমি আপনার বান্দা। আমি সামর্থ্য অনুযায়ী আপনার প্রতিশ্রুতি ও ওয়াদা পালনে অটল থাকব। আমি আমার কৃতকর্মের অনিষ্ট থেকে আপনার আশ্রয় চাই। আমি আপনার যেহেতু নি'আমতের প্রতি আমার স্বীকৃতি জানাই, এবং আমি আমার গুনাহ স্বীকার করি। সুতরাং আমাকে ক্ষমা করুন; আপনি ছাড়া গুনাহ ক্ষমা করার কেউ নেই।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Whoever recites it with certainty in the evening, and then he dies, he will enter Paradise, and likewise if (recited) in the morning.",
+        "bn": "যে ব্যক্তি সন্ধ্যায় দৃঢ় বিশ্বাসে এই দোয়া পাঠ করে, অতঃপর তাতে তার মৃত্যু হয়, সে জান্নাতে প্রবেশ করবে। একইভাবে সকালে পাঠ করলেও তাই হবে।"
+      },
+      "reference": "HR. al-Bukhari No. 6306, 6323, Ahmad IV/122-125, an-Nasa'i VIII/279-280",
+      "source_type": "hadith"
+    },
+    {
+      "id": 28,
+      "title": {
+        "en": "Supplication for Ease in All Matters",
+        "bn": "সব কাজে সহজতার দোয়া"
+      },
+      "arabic": "اللَّهُمَّ لاَ سَهْلَ إِلاَّ مَا جَعَلْتَهُ سَهْلاً وَأَنْتَ تَجْعَلُ الحَزْنَ إِذَا شِئْتَ سَهْلاً",
+      "transliteration": {
+        "en": "Allahumma lā sahla illa mā ja'altahu sahlā, wa anta taj'alul hazna iża syi'ta sahlā",
+        "bn": "আল্লাহুম্মা লা সাহ্লা ইল্লা মা জা'আলতাহু সাহলান, ওয়া আন্তা তাজ'আলুল হাযনা ইযা শি'তা সাহলান"
+      },
+      "translation": {
+        "en": "O Allah, there is no ease except in that which You make easy, and You make the difficult easy if You wish.",
+        "bn": "হে আল্লাহ! কোনো কিছুই সহজ নয়, যেটি আপনি সহজ করে দেন। আর আপনি ইচ্ছা করলে কঠিনকে সহজ করে দেন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Ease comes only from Allah. Even something difficult can become easy Insha Allah.",
+        "bn": "সহজতা কেবল আল্লাহর কাছ থেকেই আসে। এমনকি সবচেয়ে কঠিন কাজও সহজ হয়ে যায়, ইনশাআল্লাহ।"
+      },
+      "reference": "HR. Ibn Hibban",
+      "source_type": "hadith"
+    },
+    {
+      "id": 29,
+      "title": {
+        "en": "Supplication When Afflicted by Calamity",
+        "bn": "বিপদগ্রস্ত হলে দোয়া"
+      },
+      "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ اللَّهُمَّ أْجُرْنِى فِى مُصِيبَتِى وَأَخْلِفْ لِى خَيْرًا مِنْهَا",
+      "transliteration": {
+        "en": "Inna lillahi wa inna ilaihi rooj'un. Allahumma'jurnī fī mushibatī wa akhlif lī khoiron minhā",
+        "bn": "ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন। আল্লাহুম্মা'জুরনী ফি মুসীবাতী ওয়া আখলিফ লী খাইরান মিনহা"
+      },
+      "translation": {
+        "en": "Indeed we belong to Allah, and indeed to Him we will return. O Allah, reward me for my affliction and replace it with something better.",
+        "bn": "নিশ্চয় আমরা আল্লাহর এবং নিশ্চয় আমরা তাঁরই কাছে ফিরে যাব। হে আল্লাহ! আমাকে আমার বিপদে পুরস্কৃত করুন এবং এর পরিবর্তে আমাকে আরও ভালো কিছু দিন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "A servant should recite the supplication above when afflicted by calamity with certainty and hope. Insha Allah, with this, they will receive a better replacement.",
+        "bn": "বান্দার উচিত বিপদে পড়লে দৃঢ় বিশ্বাস ও আশা নিয়ে এই দোয়া পাঠ করা। ইনশাআল্লাহ, এর মাধ্যমে সে এর চেয়ে ভালো প্রতিদান পাবে।"
+      },
+      "reference": "HR. Muslim",
+      "source_type": "hadith"
+    },
+    {
+      "id": 30,
+      "title": {
+        "en": "Supplication When in Debt",
+        "bn": "ঋণগ্রস্ত অবস্থায় দোয়া"
+      },
+      "arabic": "اللَّهُمَّ اكْفِنِى بِحَلاَلِكَ عَنْ حَرَامِكَ وَأَغْنِنِى بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+      "transliteration": {
+        "en": "Allahumak finī bi halālika 'an haroomik, wa agh niniy bi fadhlika 'amman siwāk",
+        "bn": "আল্লাহুম্মাকফিনী বিহালালিকা আন হারামিকা, ওয়া আগনিনী বিফাদলিকা আ'মান সিওয়াক"
+      },
+      "translation": {
+        "en": "O Allah, suffice me with what is lawful and keep me away from what is unlawful, and enrich me with Your bounty so I do not depend on anyone besides You.",
+        "bn": "হে আল্লাহ! আমাকে আপনার হালাল দিয়ে আপনার হারাম থেকে যথেষ্ট করুন, এবং আমাকে আপনার অনুগ্রহে অপরের উপর নির্ভরশীল হওয়া থেকে মুখাপেক্ষীমুক্ত করুন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Lawful provision, even if it is little, is better than abundant unlawful wealth.",
+        "bn": "হালাল রিজিক, যদিও তা অল্প হয়, তবে তা হারাম সম্পদের প্রচুরতার চেয়ে উত্তম।"
+      },
+      "reference": "HR. at-Tirmidzi No. 2563",
+      "source_type": "hadith"
+    },
+    {
+      "id": 31,
+      "title": {
+        "en": "Supplication for Protection from Laziness, Sadness, and Debt",
+        "bn": "অলসতা, দুঃখ ও ঋণ থেকে রক্ষার দোয়া"
+      },
+      "arabic": "اَللّٰهُمَّ إِنِّى أَعُوْذُبِكَ مِنَ الْهَمِّ وَالْحَزْنِ وَأَعُوْذُبِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَأَعُوْذُبِكَ مِنَ الْجُبْنِ وَالْبُخْلِ وَأَعُوْذُبِكَ مِنْ غَلَبَتِ الدَّيْنِ وَقَهْرِ الرجال",
+      "transliteration": {
+        "en": "Allahumma innī a'ūżu bika minal hammi wal hazan. Wa a'użu bika minal 'ajzi wal kasal. Wa a'ūżu bika minal jubni wal bukhl. Wa a'ūżu bika min ghalabatiddayni wa qahrirrijāl",
+        "bn": "আল্লাহুম্মা ইন্নী আ'উযু বিকা মিনাল হাম্মি ওয়াল হাযন, ওয়া আ'উযু বিকা মিনাল আ'জযি ওয়াল কাসাল, ওয়া আ'উযু বিকা মিনাল জুবনি ওয়াল বুখল, ওয়া আ'উযু বিকা মিন গালাবাতিদ দাইনি ওয়া ক্বাহরির রিজাল"
+      },
+      "translation": {
+        "en": "O Allah, I seek refuge in You from anxiety and grief, and I seek refuge in You from incapacity and laziness, and I seek refuge in You from cowardice and miserliness, and I seek refuge in You from being overpowered by debt and from being overcome by men.",
+        "bn": "হে আল্লাহ! আমি আপনার কাছে আশ্রয় চাই চিন্তা ও দুঃখ থেকে, আশ্রয় চাই অক্ষমতা ও অলসতা থেকে, আশ্রয় চাই ভীরুতা ও কৃপণতা থেকে এবং আশ্রয় চাই ঋণের বোঝা ও মানুষের কর্তৃত্ব থেকে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Abu Umamah then narrated: After I practiced this supplication, Allah truly removed my anxiety and gave me the ability to repay my debt.",
+        "bn": "আবু উমামা রাদিয়াল্লাহু আনহু বর্ণনা করেছেন: আমি এই দোয়াটি চর্চা করার পর আল্লাহ সত্যিই আমার উদ্বেগ দূর করে দিয়েছেন এবং ঋণ পরিশোধের ক্ষমতা দান করেছেন।"
+      },
+      "reference": "HR. Abu Dawud No. 1555",
+      "source_type": "hadith"
+    },
+    {
+      "id": 32,
+      "title": {
+        "en": "Supplication After Sneezing",
+        "bn": "হাঁচি দেওয়ার পরের দোয়া"
+      },
+      "arabic": "الحَمْدُ للهِ",
+      "transliteration": {
+        "en": "Alḥamdulillāh",
+        "bn": "আলহামদুলিল্লাহ"
+      },
+      "translation": {
+        "en": "All praise is to Allah.",
+        "bn": "সমস্ত প্রশংসা আল্লাহর।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Indeed, Allah loves sneezing because it moves a person to worship. It is encouraged to respond to the praise of Allah by someone who praises Allah, and vice versa.",
+        "bn": "আল্লাহ হাঁচিকে ভালোবাসেন, কারণ তা মানুষকে ইবাদতের দিকে উৎসাহিত করে। যে কেউ আল্লাহর প্রশংসা করে তার জবাবে আল্লাহর প্রশংসা করা উৎসাহিত — এবং এর বিপরীতও।"
+      },
+      "reference": "HR. al-Bukhari",
+      "source_type": "hadith"
+    },
+    {
+      "id": 33,
+      "title": {
+        "en": "Supplication Upon Hearing Someone Sneeze",
+        "bn": "কাউকে হাঁচি দিতে শুনলে"
+      },
+      "arabic": "يَرْحَمُكَ اللهُ",
+      "transliteration": {
+        "en": "Yarhamukallah",
+        "bn": "ইয়ারহামুকাল্লাহ"
+      },
+      "translation": {
+        "en": "May Allah have mercy on you.",
+        "bn": "আল্লাহ আপনার উপর রহম করুন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Indeed, Allah loves sneezing because it moves a person to worship. It is encouraged to respond to the praise of Allah by someone who praises Allah, and vice versa.",
+        "bn": "আল্লাহ হাঁচিকে ভালোবাসেন, কারণ তা মানুষকে ইবাদতের দিকে উৎসাহিত করে। যে কেউ আল্লাহর প্রশংসা করে তার জবাবে আল্লাহর প্রশংসা করা উৎসাহিত — এবং এর বিপরীতও।"
+      },
+      "reference": "HR. al-Bukhari",
+      "source_type": "hadith"
+    },
+    {
+      "id": 34,
+      "title": {
+        "en": "Response to Someone Who Says 'Yarhamukallah' After You Sneeze",
+        "bn": "হাঁচির পর 'ইয়ারহামুকাল্লাহ' বললে তার জবাব"
+      },
+      "arabic": "يَهْدِيكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ",
+      "transliteration": {
+        "en": "Yahdikumullah wa yushlihu bālakum",
+        "bn": "ইয়াহদীকুমুল্লাহু ওয়া ইউসলিহু বালাকুম"
+      },
+      "translation": {
+        "en": "May Allah guide you and improve your condition.",
+        "bn": "আল্লাহ আপনাকে হিদায়াত দান করুন এবং আপনার অবস্থা সুন্দর করে দিন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Indeed, Allah loves sneezing because it moves a person to worship. It is encouraged to respond to the praise of Allah by someone who praises Allah, and vice versa.",
+        "bn": "আল্লাহ হাঁচিকে ভালোবাসেন, কারণ তা মানুষকে ইবাদতের দিকে উৎসাহিত করে। যে কেউ আল্লাহর প্রশংসা করে তার জবাবে আল্লাহর প্রশংসা করা উৎসাহিত — এবং এর বিপরীতও।"
+      },
+      "reference": "HR. al-Bukhari",
+      "source_type": "hadith"
+    },
+    {
+      "id": 35,
+      "title": {
+        "en": "Supplication for Good Character",
+        "bn": "উত্তম চরিত্রের দোয়া"
+      },
+      "arabic": "اللَّهُمَّ كَمَا حَسَّنْتَ خَلْقِي فَحَسِّنْ خُلُقِي",
+      "transliteration": {
+        "en": "Allahumma kamā hassanta kholqī fahassin khuluqī",
+        "bn": "আল্লাহুম্মা কামা হাসানতা খালক্বী ফাহাসসিন খুলুক্বী"
+      },
+      "translation": {
+        "en": "O Allah, just as You have made my external form good, make my character good as well.",
+        "bn": "হে আল্লাহ! আপনি যেভাবে আমার বাহ্যিক রূপ সুন্দর করেছেন, তেমনি আমার চরিত্রও সুন্দর করে দিন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "A charming appearance is not enough provision for a Muslim, but it must be accompanied by noble character. Therefore, a Muslim should constantly ask for their character to be improved and beautified.",
+        "bn": "সুন্দর চেহারা একজন মুসলিমের যথেষ্ট রিজিক নয়; এর সাথে মহৎ চরিত্রও থাকতে হবে। তাই একজন মুসলিমের উচিত সবসময় আল্লাহর কাছে তার চরিত্র সুন্দর ও মানোন্নত করার প্রার্থনা করা।"
+      },
+      "reference": "HR. Ahmad, authenticated by al-Albani in al-Irwa', 1/115",
+      "source_type": "hadith"
+    },
+    {
+      "id": 36,
+      "title": {
+        "en": "Prayer for Protection from Satan",
+        "bn": "শয়তানের হাত থেকে রক্ষার দোয়া"
+      },
+      "arabic": "رَبِّ أَعُوْذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَأَعُوْذُ بِكَ رَبِّ أَنْ يَحْضُرُوْنِ",
+      "transliteration": {
+        "en": "Rabbi a'ūżu bika min hamazātisy syayāthīn wa a'ūżu bika rabbi ay yahdhurūn",
+        "bn": "রাব্বি আ'উযু বিকা মিন হামাযাতিশ শায়াত্বীন, ওয়া আ'উযু বিকা রাব্বি আন ইয়াহদ্বুরূন"
+      },
+      "translation": {
+        "en": "My Lord, I seek refuge in You from the whispers of Satan, and I seek refuge in You, my Lord, from their presence around me.",
+        "bn": "হে আমার রব! আমি আপনার কাছে আশ্রয় চাই শয়তানদের প্ররোচনা থেকে, এবং হে আমার রব! আমি আপনার আশ্রয় চাই তাদের উপস্থিতি থেকে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Indeed, Allah commands the Prophet Muhammad and all his followers to seek refuge from the whispers of Satan in all activities, especially when approaching death. Satan whispers evil into the hearts of humans, encouraging wrongdoing.",
+        "bn": "আল্লাহ নবী মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তাঁর অনুসারীদেরকে সব কাজে, বিশেষত মৃত্যুকালে শয়তানের কুমন্ত্রণা থেকে আশ্রয় চাইতে নির্দেশ দিয়েছেন। শয়তান মানুষের হৃদয়ে কুমন্ত্রণা দেয়, যাতে খারাপ কাজ করতে উৎসাহিত হয়।"
+      },
+      "reference": "QS. Al-Mu'minun: 97-98",
+      "source_type": "quran"
+    },
+    {
+      "id": 37,
+      "title": {
+        "en": "Prayer After the Adhan",
+        "bn": "আজানের পরের দোয়া"
+      },
+      "arabic": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ",
+      "transliteration": {
+        "en": "Allahumma rabba hāżihid da'watit tāmmah, wasshalātil qāaimah, āti muhammadanil wasīlata wal fadhīilah, wab'aṡhu maqāman mahmūda allażī wa'adtah",
+        "bn": "আল্লাহুম্মা রাব্বা হাযিহিদ দা'ওয়াতিত তাম্মাহ, ওয়াস সালাতিল ক্বায়িমাহ, আতি মুহাম্মাদান আল ওয়াসীলাতা ওয়াল ফাদীলাহ, ওয়াব'আছহু মাক্বামান মাহমূদান আল্লাযী ওয়া'আদতাহ"
+      },
+      "translation": {
+        "en": "O Allah, Lord of this perfect call and the established prayer, grant Muhammad the wasilah (a high status in Paradise) and the excellence (above all creation), and raise him to the praiseworthy station that You have promised him.",
+        "bn": "হে আল্লাহ! এই পূর্ণাঙ্গ আহ্বানের রব এবং প্রতিষ্ঠিত সালাতের রব! মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে ওসীলা (জান্নাতের উচ্চ মর্যাদা) ও ফযীলত দান করুন, এবং তাঁকে সেই প্রশংসনীয় স্থানে উপনীত করুন, যেটির প্রতিশ্রুতি আপনি তাঁকে দিয়েছেন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "This prayer is recommended by the Prophet Muhammad sallallahu 'alayhi wa sallam for those who hear the call to prayer. It has many benefits, including receiving intercession from the Prophet on the Day of Judgment, attaining the wasilah and honor in Paradise for the Prophet, and receiving great and commendable reward from Allah. It is also a way to show respect and admiration for Allah and His Messenger, expressing love and longing for the Prophet Muhammad, the role model for Muslims.",
+        "bn": "এই দোয়া আজান শোনার পর পড়া সুপারিশকৃত। এর অনেক উপকারিতা রয়েছে; যেমন কিয়ামতের দিন নবীর সুপারিশ লাভ, নবীর জন্য জান্নাতে ওসীলা ও সম্মান লাভ এবং আল্লাহর পক্ষ থেকে বিশাল ও প্রশংসনীয় সাওয়াব লাভ। এছাড়া এটি আল্লাহর রাসূলের প্রতি শ্রদ্ধা ও ভালোবাসা প্রকাশের একটি উপায়।"
+      },
+      "reference": "Narrated by Abu Dawud (529), at-Tirmidhi (211), an-Nasa'i (2:26), Ibn Majah (722)",
+      "source_type": "hadith"
+    },
+    {
+      "id": 38,
+      "title": {
+        "en": "Prayer for Forgiveness for Parents",
+        "bn": "মা-বাবার জন্য ক্ষমা প্রার্থনার দোয়া"
+      },
+      "arabic": "رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+      "transliteration": {
+        "en": "Rabbanagfir lī wa liwālidayya wa lil mu'minīna yauma yaqūmul hīsāb",
+        "bn": "রাব্বানাগফির লী ওয়া লিওয়া লি দাদাইয়্যা ওয়া লিল মু'মিনীনা ইয়াওমা ইয়াক্বূমুল হিসাব"
+      },
+      "translation": {
+        "en": "Our Lord, forgive me and my parents and all the believers on the Day the account is established.",
+        "bn": "হে আমাদের রব! আমাকে, আমার মা-বাবাকে এবং সব মুমিনকে ক্ষমা করুন যেদিন হিসাব প্রতিষ্ঠিত হবে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "This is a prayer of Prophet Ibrahim (peace be upon him), teaching us to honor and love our parents, remember the Day of Judgment, and care for fellow believers. By making this prayer, we hope that Allah will forgive our sins and make us among the faithful.",
+        "bn": "এটি নবী ইবরাহীম আলাইহিস সালামের দোয়া; এটি মা-বাবাকে সম্মান ও ভালোবাসা, হিসাবের দিন স্মরণ এবং মুমিন ভাই-বোনদের প্রতি সহানুভূতি শিক্ষা দেয়। এই দোয়া করার মাধ্যমে আমরা আশা করি আল্লাহ আমাদের গুনাহ ক্ষমা করবেন এবং আমাদের বিশ্বাসীদের অন্তর্ভুক্ত করবেন।"
+      },
+      "reference": "QS. Ibrahim: 41",
+      "source_type": "quran"
+    }
+  ]
+}

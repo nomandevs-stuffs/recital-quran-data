@@ -1,0 +1,221 @@
+{
+  "category": "selected-dua",
+  "name": {
+    "en": "Selected Dua",
+    "bn": "নির্বাচিত দোয়া"
+  },
+  "languages": [
+    "en",
+    "bn"
+  ],
+  "duas": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Dua Seeking Good In This World And In The Hereafter",
+        "bn": "দুনিয়া ও আখিরাতে কল্যাণের দোয়া"
+      },
+      "arabic": "رَبَّنَا آَتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآَخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "transliteration": {
+        "en": "Rabbanā ātinā fīddunyā ḥasanah wa fīlākhirati ḥasanah waqinā 'ażābannār",
+        "bn": "রাব্বানা আতিনা ফিদ্দুনইয়া হাসানাতাঁ ওয়া ফিলআখিরাতি হাসানাতাঁ ওয়াক্বিনা আ'যাবান্নার"
+      },
+      "translation": {
+        "en": "Our Lord! Give us good in this world and give us good in the Hereafter, and save us from the torment of the hell fire.",
+        "bn": "হে আমাদের রব! আমাদের দুনিয়াতে কল্যাণ দান করুন এবং আখিরাতেও কল্যাণ দান করুন, আর আমাদের জাহান্নামের আজাব থেকে রক্ষা করুন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "This dua is the dua most often said by the Prophet sallallahu 'alayhi wa sallam, as told by sahaba Anas bin Malik radhiallahu anhu.",
+        "bn": "সাহাবা আনাস ইবনে মালিক রাদিয়াল্লাহু আনহু-এর বর্ণনায় এই দোয়াটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সবচেয়ে বেশি পড়তেন।"
+      },
+      "reference": "QS. Al-Baqarah: 201, al-Bukhari: 6389, HR. Muslim: 2690",
+      "source_type": "quran"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Dua To Make Heart Firm Upon Deen #1",
+        "bn": "দীনের উপর অটল থাকার দোয়া #১"
+      },
+      "arabic": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِى عَلَى دِينِكَ",
+      "transliteration": {
+        "en": "Yā muqallibal qulūb ṡabbit qalbī 'alā dīnik",
+        "bn": "ইয়া মুক্বাল্লিবাল ক্বূলূব, ছাব্বিত ক্বালবী আ'লা দ্বীনিক"
+      },
+      "translation": {
+        "en": "O Changer of the hearts, make my heart firm upon Your religion.",
+        "bn": "হে হৃদয়-পরিবর্তনকারী! আপনার দীনের উপর আমার হৃদয়কে অটল রাখুন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "A person's heart is between the fingers of Allah ta'ala, and He turns it back and forth according to his will. So, it is appropriate for someone to always ask that Allah will set their heart on goodness, and always be istiqamah in the truth.",
+        "bn": "মানুষের হৃদয় আল্লাহর আঙ্গুলগুলোর মাঝে, তিনি ইচ্ছামতো তা এদিক-ওদিক ঘুরাতে থাকেন। তাই সবার উচিত আল্লাহর কাছে সবসময় প্রার্থনা করা যেন তিনি তার হৃদয়কে কল্যাণের উপর স্থির রাখেন এবং সত্যের উপর ইস্তিকামতে থাকেন।"
+      },
+      "reference": "HR. at-Tirmidzi, No. 3522 and Ahmad, 6: 315",
+      "source_type": "hadith"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Dua To Make Heart Firm Upon Deen #2",
+        "bn": "দীনের উপর অটল থাকার দোয়া #২"
+      },
+      "arabic": "اللَّهُمَّ مُصَرِّفَ الْقُلُوبِ صَرِّفْ قُلُوبَنَا عَلَى طَاعَتِكَ",
+      "transliteration": {
+        "en": "Allāhumma muṣarrifal qulūb ṣarrif qulūbanā 'alā ṭā'ātika",
+        "bn": "আল্লাহুম্মা মুসাররিফাল ক্বূলূব, সাররিফ ক্বুলূবানা আ'লা ত্বা'আতিক"
+      },
+      "translation": {
+        "en": "O Allah! Controller of the hearts, direct our hearts to Your obedience.",
+        "bn": "হে আল্লাহ! হৃদয়সমূহের পরিচালনাকারী! আমাদের হৃদয়কে আপনার আনুগত্যের দিকে পরিচালিত করুন।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "A person's heart is between the fingers of Allah ta'ala, and He turns it back and forth according to his will. So, it is appropriate for someone to always ask that Allah will set their heart on goodness, and always be istiqamah in the truth.",
+        "bn": "মানুষের হৃদয় আল্লাহর আঙ্গুলগুলোর মাঝে, তিনি ইচ্ছামতো তা এদিক-ওদিক ঘুরাতে থাকেন। তাই সবার উচিত আল্লাহর কাছে সবসময় প্রার্থনা করা যেন তিনি তার হৃদয়কে কল্যাণের উপর স্থির রাখেন এবং সত্যের উপর ইস্তিকামতে থাকেন।"
+      },
+      "reference": "HR. Muslim No. 2654",
+      "source_type": "hadith"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Dua To Make Heart Firm Upon Deen #3",
+        "bn": "দীনের উপর অটল থাকার দোয়া #৩"
+      },
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا",
+      "transliteration": {
+        "en": "Rabbanā lā tuzigh qulūbanā ba'da iż hadaytanā",
+        "bn": "রাব্বানা লা তুযিগ ক্বুলূবানা বা'দা ইয হাদাইতানা"
+      },
+      "translation": {
+        "en": "O our Lord, do not make our hearts incline to error after You have guided us.",
+        "bn": "হে আমাদের রব! আমাদের হিদায়াত দেওয়ার পর আমাদের হৃদয়কে বক্র পথে চালিত করবেন না।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "A person's heart is between the fingers of Allah ta'ala, and He turns it back and forth according to his will. So, it is appropriate for someone to always ask that Allah will set their heart on goodness, and always be istiqamah in the truth.",
+        "bn": "মানুষের হৃদয় আল্লাহর আঙ্গুলগুলোর মাঝে, তিনি ইচ্ছামতো তা এদিক-ওদিক ঘুরাতে থাকেন। তাই সবার উচিত আল্লাহর কাছে সবসময় প্রার্থনা করা যেন তিনি তার হৃদয়কে কল্যাণের উপর স্থির রাখেন এবং সত্যের উপর ইস্তিকামতে থাকেন।"
+      },
+      "reference": "QS. Ali Imran: 8",
+      "source_type": "quran"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Dua To Seek Refuge Against The Loss Of Pleasure",
+        "bn": "নিআমত হারানো থেকে আশ্রয় প্রার্থনা"
+      },
+      "arabic": "اللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ وَتَحَوُّلِ عَافِيَتِكَ وَفُجَاءَةِ نِقْمَتِكَ وَجَمِيعِ سَخَطِكَ",
+      "transliteration": {
+        "en": "Allāhumma innī a'ūżu bika min zawāli ni'matika, wa taḥawwuli 'āfiyatika, wa fujā'ati niqmatik, wa jamī'i sakhaṭik",
+        "bn": "আল্লাহুম্মা ইন্নী আ'উযু বিকা মিন জাওয়ালি নি'মাতিকা, ওয়া তাহাওওুলি আফিয়াতিকা, ওয়া ফুজাআতি নিক্বমাতিকা, ওয়া জামী'ই সাখাত্বিক"
+      },
+      "translation": {
+        "en": "O Allah, I seek refuge in You from the loss of the pleasures that You have bestowed, from changes in the health that You have bestowed, from Your sudden torment, and from all Your wrath.",
+        "bn": "হে আল্লাহ! আমি আপনার কাছে আশ্রয় চাই আপনার দানকৃত নেয়ামতের অপসারণ থেকে, আপনার দানকৃত সুস্থতার পরিবর্তন থেকে, আপনার আকস্মিক শাস্তি থেকে এবং আপনার সব ধরনের অসন্তুষ্টি থেকে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "The pleasures of being present at this time are very likely to be lost, the health of our souls and bodies in a blink of an eye can turn into illness, and only Allah can prevent that from happening.",
+        "bn": "বর্তমান সময়ের নিআমত হারানোর সম্ভাবনা অত্যন্ত বেশি; আমাদের আত্মা ও শরীরের সুস্থতা চোখের পলকেই অসুস্থতায় পরিণত হতে পারে, আর কেবল আল্লাহই তা থেকে রক্ষা করতে পারেন।"
+      },
+      "reference": "HR. Muslim No. 2739",
+      "source_type": "hadith"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Dua To Resist Affliction",
+        "bn": "বিপদ-আপদ থেকে বাঁচার দোয়া"
+      },
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ جَهْدِ البَلاَءِ ، وَدَرَكِ الشَّقَاءِ ، وَسُوءِ القَضَاءِ ، وَشَمَاتَةِ الأَعْدَاء",
+      "transliteration": {
+        "en": "Allāhumma innī a'ūżu bika min jahdil balā', wa darakisy syaqā', wa sū'il qaḍā', wa syamātatil a'dā'",
+        "bn": "আল্লাহুম্মা ইন্নী আ'উযু বিকা মিন জাহদিল বালা', ওয়া দারাকিস শাক্বা', ওয়া সুইল ক্বাদা', ওয়া শামাতাতিল আ'দা'"
+      },
+      "translation": {
+        "en": "O Allah, I seek refuge in You from severe calamity, being overtaken by misery, evil destiny, and the triumphant mockery of enemies.",
+        "bn": "হে আল্লাহ! আমি আপনার কাছে আশ্রয় চাই কঠিন বিপদের যাতনা থেকে, দুর্ভাগ্যের আক্রমণ থেকে, মন্দ তাক্বদীর থেকে এবং শত্রুর বিদ্রুপের জয়লাভ থেকে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Taking refuge from the provisions of fate that have a bad impact, does not contradict the attitude of being pleased with the provisions of the destiny of Allah azza wa jalla. Because asking for protection from the provision of Allah's destiny. Allah azza wa jalla could have predestined a disaster for someone, but Allah azza wa jalla also predestined that if he prays, Allah will remove the disaster.",
+        "bn": "দুর্ভাগ্যের বিধান থেকে আশ্রয় চাওয়া আল্লাহ্‌র তাক্বদীরে রাজি থাকার নীতির পরিপন্থী নয়। কারণ, আল্লাহ্‌র কাছে আশ্রয় চাওয়াও তাঁরই বিধান; তিনি কাউকে বিপদ দিতেও পারেন, আবার তাঁর কাছে দোয়া করলে তা দূরও করতে পারেন।"
+      },
+      "reference": "HR. al-Bukhari: 6616, Muslim: 2707",
+      "source_type": "hadith"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "Dua To Be Released From Debt, Anxiety, Weakness, Laziness, Fear, And Pressure from Others",
+        "bn": "ঋণ, উদ্বেগ, দুর্বলতা, অলসতা, ভয় ও মানুষের চাপ থেকে মুক্তির দোয়া"
+      },
+      "arabic": "اَللّٰهُمَّ إِنِّى أَعُوْذُبِكَ مِنَ الْهَمِّ وَالْحَزْنِ وَأَعُوْذُبِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَأَعُوْذُبِكَ مِنَ الْجُبْنِ وَالْبُخْلِ وَأَعُوْذُبِكَ مِنْ غَلَبَتِ الدَّيْنِ وَقَهْرِ الرجال",
+      "transliteration": {
+        "en": "Allāhumma innī a'ūżu bika minal hammi wal ḥazan, wa a'ūżu bika minal 'ajzi wal kasal, wa a'ūżu bika minal jubni wal bukhl, wa a'ūżu bika min ghalabatiddayni wa qahrirrijāl",
+        "bn": "আল্লাহুম্মা ইন্নী আ'উযু বিকা মিনাল হাম্মি ওয়াল হাযান, ওয়া আ'উযু বিকা মিনাল আ'জযি ওয়াল কাসাল, ওয়া আ'উযু বিকা মিনাল জুবনি ওয়াল বুখল, ওয়া আ'উযু বিকা মিন গালাবাতিদ দাইনি ওয়া ক্বাহরির রিজাল"
+      },
+      "translation": {
+        "en": "O Allah, I seek refuge in You from care and grief, I seek refuge in You from incapacity and slackness, I seek refuge in You from cowardice and niggardliness, and I seek refuge in You from being overcome by debt and being put in subjection by men.",
+        "bn": "হে আল্লাহ! আমি আপনার কাছে আশ্রয় চাই চিন্তা ও দুঃখ থেকে, আশ্রয় চাই অক্ষমতা ও অলসতা থেকে, আশ্রয় চাই ভীরুতা ও কৃপণতা থেকে এবং আশ্রয় চাই ঋণের বোঝা ও মানুষের কর্তৃত্ব থেকে।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "A noble sahaba, Abu Umamah, who narrated this hadith, said: after I practiced this prayer, Allah completely removed my confusion and gave me the ability to pay off debts.",
+        "bn": "এই হাদিস বর্ণনাকারী নবী সাহাবি আবু উমামা রাদিয়াল্লাহু আনহু বলেছেন: আমি এই দোয়াটি চর্চা করার পর আল্লাহ সত্যিই আমার উদ্বেগ দূর করে দিয়েছেন এবং ঋণ পরিশোধের ক্ষমতা দান করেছেন।"
+      },
+      "reference": "HR. Abu Dawud No. 1555",
+      "source_type": "hadith"
+    },
+    {
+      "id": 8,
+      "title": {
+        "en": "Dua When Getting Good News",
+        "bn": "সুখবর পাওয়ার দোয়া"
+      },
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِى بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+      "transliteration": {
+        "en": "Alhamdulillāhillażī bini'matihī tatimmuṣṣāliḥāt",
+        "bn": "আলহামদুলিল্লাহিল্লাযী বিনি'মাতিহী তাতিম্মুস সালিহাত"
+      },
+      "translation": {
+        "en": "Praise be to Allah, by whose grace goodness is perfected.",
+        "bn": "সমস্ত প্রশংসা আল্লাহর, যাঁর নিআমতে পুণ্যকর্মসমূহ পূর্ণতা পায়।"
+      },
+      "notes": {
+        "en": null,
+        "bn": null
+      },
+      "benefits": {
+        "en": "Aisha radhiyallahu 'anha said, Rasulullah sallallahu 'alayhi wa sallam when he saw something he liked, he read the sentence above.",
+        "bn": "আয়িশা রাদিয়াল্লাহু আনহা বলেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন কোনো পছন্দনীয় কিছু দেখতেন, তখন এই বাক্যটি পড়তেন।"
+      },
+      "reference": "HR. Ibn Majah in the Sunan, No. 3803 and al-Hakim in al-Mustadrak (1/499)",
+      "source_type": "hadith"
+    }
+  ]
+}

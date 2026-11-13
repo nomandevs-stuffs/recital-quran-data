@@ -1,0 +1,351 @@
+{
+  "category": "dhikr-after-salah",
+  "name": {
+    "en": "Dhikr After Salah",
+    "bn": "সালাতের পরের জিকির"
+  },
+  "languages": [
+    "en",
+    "bn"
+  ],
+  "duas": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Istighfar",
+        "bn": "ইস্তিগফার"
+      },
+      "arabic": "أَسْتَغْفِرُ اللَّهَ",
+      "transliteration": {
+        "en": "Astaghfirullāh",
+        "bn": "আস্তাগফিরুল্লাহ"
+      },
+      "translation": {
+        "en": "I seek forgiveness from Allah.",
+        "bn": "আমি আল্লাহর কাছে ক্ষমা প্রার্থনা করছি।"
+      },
+      "notes": {
+        "en": "Read 3x",
+        "bn": "৩ বার পড়ুন"
+      },
+      "benefits": {
+        "en": "When the Messenger of Allah, sallallahu 'alayhi wa sallam, finished his prayer, he would seek forgiveness three times and recite the dhikr above. Al-Auza'i stated that the recitation of istighfar is 'Astaghfirullah, Astaghfirullah.'",
+        "bn": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাত শেষ করতেন, তিনবার ক্ষমা চাইতেন এবং উপরের জিকির পড়তেন। আল-আওযায়ী বলেছেন, ইস্তিগফারের পাঠ হলো 'আস্তাগফিরুল্লাহ, আস্তাগফিরুল্লাহ।'"
+      },
+      "reference": "HR. Muslim No. 591",
+      "source_type": "hadith"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Allah, The Giver of Peace",
+        "bn": "শান্তিদাতা আল্লাহ"
+      },
+      "arabic": "اَللَّهُمَّ أَنْتَ السَّلاَمُ، وَمِنْكَ السَّلاَمُ، تَبَارَكْتَ يَا ذَا الْجَلاَلِ وَاْلإِكْرَامِ",
+      "transliteration": {
+        "en": "Allāhumma antas salām wa minkas salām tabārakta yā żal jalāli wal ikrām",
+        "bn": "আল্লাহুম্মা আন্তাস সালাম, ওয়া মিনকাস সালাম, তাবারাকতা ইয়া যাল জালালি ওয়াল ইকরাম"
+      },
+      "translation": {
+        "en": "O Allah, You are Peace, and from You is peace. Blessed are You, O Possessor of majesty and honor.",
+        "bn": "হে আল্লাহ! আপনিই শান্তি, এবং আপনার পক্ষ থেকেই শান্তি আসে। আপনি বরকতময়, হে মহিমাময় ও সম্মানের অধিকারী।"
+      },
+      "notes": {
+        "en": "Read 1x",
+        "bn": "১ বার পড়ুন"
+      },
+      "benefits": {
+        "en": "When the Messenger of Allah, sallallahu 'alayhi wa sallam, finished his prayer, he would seek forgiveness three times and recite the dhikr above. Al-Auza'i stated that the recitation of istighfar is 'Astaghfirullah, Astaghfirullah.'",
+        "bn": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন সালাত শেষ করতেন, তিনবার ক্ষমা চাইতেন এবং উপরের জিকির পড়তেন। আল-আওযায়ী বলেছেন, ইস্তিগফারের পাঠ হলো 'আস্তাগফিরুল্লাহ, আস্তাগফিরুল্লাহ।'"
+      },
+      "reference": "HR. Muslim No. 591",
+      "source_type": "hadith"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Allah, The Preventer and The Giver of All Things",
+        "bn": "আল্লাহ, যিনি বাধা দেন ও সব কিছু দেন"
+      },
+      "arabic": "لاَ إِلَـهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرُ، اَللَّهُمَّ لاَ مَانِعَ لِمَا أَعْطَيْتَ، وَلاَ مُعْطِيَ لِمَا مَنَعْتَ، وَلاَ يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+      "transliteration": {
+        "en": "Lā ilāha illāllāh waḥdahu lā syarīka lah, lahul mulku wa lahul ḥamdu wa huwa 'alā kulli syai'in qadīr. Allāhumma lā māni'a limā a'thaita wa lā mu'ṭiya limā mana'ta wa lā yanfa'u żal jaddi minkaljaddu",
+        "bn": "লা ইলাহা ইল্লাল্লাহু ওয়াহদাহু লা শারিকা লাহু, লাহুল মুলকু ওয়া লাহুল হামদু ওয়া হুয়া আলা কুল্লি শাইয়িন ক্বাদীর। আল্লাহুম্মা লা মানিয়া লিমা আ'ত্বাইতা, ওয়া লা মু'ত্বিয়া লিমা মানা'তা, ওয়া লা ইয়ানফা'উ যাল জাদ্দি মিনকাল জাদ্দ"
+      },
+      "translation": {
+        "en": "There is no deity worthy of worship except Allah alone, He has no partner. To Him belongs dominion and praise, and He is over all things competent. O Allah, there is no preventer of what You give, and no giver of what You withhold, and wealth and honor do not benefit their possessor (except faith and righteous deeds that save from punishment). Only from You is wealth and honor.",
+        "bn": "আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি একক, তাঁর কোনো শরিক নেই। রাজত্ব তাঁরই, প্রশংসা তাঁরই, আর তিনি সব কিছুর উপর ক্ষমতাবান। হে আল্লাহ! আপনি যা দেন তা কেউ বন্ধ করতে পারে না, এবং আপনি যা দেন না তা কেউ দিতে পারে না। ধন-সম্পদের মালিকের জন্য আপনার কাছে ধন-সম্পদ কোনো কাজে আসে না।"
+      },
+      "notes": {
+        "en": "Read 1x",
+        "bn": "১ বার পড়ুন"
+      },
+      "benefits": {
+        "en": null,
+        "bn": null
+      },
+      "reference": "HR. Bukhari No. 844 and Muslim No. 593",
+      "source_type": "hadith"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Allah, The Possessor of All and The Only One Worthy of Worship",
+        "bn": "আল্লাহ, সব কিছুর মালিক ও একমাত্র উপাস্য"
+      },
+      "arabic": "لاَ إِلَـهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرُ. لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ، لاَ إِلَـهَ إِلاَّ اللهُ، وَلاَ نَعْبُدُ إِلاَّ إِيَّاهُ، لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ، لاَ إِلَـهَ إِلاَّ اللهُ مُخْلِصِيْنَ لَهُ الدِّيْنَ وَلَوْ كَرِهَ الْكَافِرُوْنَ",
+      "transliteration": {
+        "en": "Lā ilāha illāllāh waḥdahu lā syarīka lah. Lahul mulku wa lahul ḥamdu wa huwa 'alā kulli syai'in qadīr. Lā ḥawla wa lā quwwata illā billāh. Lā ilāha illāllāh wa lā na'budu illā iyyāh. Lahun ni'mah wa lahul faḍl wa lahuṡ ṡanāul ḥasan. Lā ilāha illāllāh mukhlishīna lahud dīn wa law karihal kāfirūn",
+        "bn": "লা ইলাহা ইল্লাল্লাহু ওয়াহদাহু লা শারিকা লাহু, লাহুল মুলকু ওয়া লাহুল হামদু ওয়া হুয়া আলা কুল্লি শাইয়িন ক্বাদীর। লা হাওলা ওয়া লা কুওয়াতা ইল্লা বিল্লাহ, লা ইলাহা ইল্লাল্লাহ, ওয়া লা না'বুদু ইল্লা ইয়্যাহু, লাহুন নি'মাতু ওয়া লাহুল ফাদলু ওয়া লাহুছ ছানাউল হাসান, লা ইলাহা ইল্লাল্লাহু মুখলিসীনা লাহুদ দীন ওয়া লাও কারিহাল কাফিরুন"
+      },
+      "translation": {
+        "en": "There is no deity worthy of worship except Allah alone, He has no partner. To Him belongs dominion and praise, and He is over all things competent. There is no power and no strength except by Allah. There is no deity worthy of worship except Allah, and we do not worship except Him. To Him belongs all favor, grace, and good praise. There is no deity worthy of worship except Allah, making our religion sincerely for Him, even if the disbelievers dislike it.",
+        "bn": "আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি একক, তাঁর কোনো শরিক নেই। রাজত্ব তাঁরই, প্রশংসা তাঁরই, আর তিনি সব কিছুর উপর ক্ষমতাবান। আল্লাহর সাহায্য ছাড়া কোনো শক্তি ও ক্ষমতা নেই। আল্লাহ ছাড়া কোনো ইলাহ নেই, আর আমরা কেবল তাঁরই ইবাদত করি। নি'আমত তাঁরই, অনুগ্রহ তাঁরই এবং উত্তম প্রশংসা তাঁরই। আল্লাহ ছাড়া কোনো ইলাহ নেই, আমরা তাঁর জন্যই দীনকে একনিষ্ঠ করি, যদিও অবিশ্বাসীরা তা অপছন্দ করে।"
+      },
+      "notes": {
+        "en": "Read 1x",
+        "bn": "১ বার পড়ুন"
+      },
+      "benefits": {
+        "en": "'Abdullah bin Zubair said, \"The Prophet, sallallahu 'alayhi wa sallam, used to recite the tahlil (laa ilaha illallah) at the end of the prayer.\"",
+        "bn": "আব্দুল্লাহ ইবনে যুবায়ের রাদিয়াল্লাহু আনহু বলেছেন: 'নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের শেষে তাহলিল (লা ইলাহা ইল্লাল্লাহ) পড়তেন।'"
+      },
+      "reference": "HR. Muslim No. 594",
+      "source_type": "hadith"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Tasbih",
+        "bn": "তাসবিহ"
+      },
+      "arabic": "سُبْحَانَ اللهِ",
+      "transliteration": {
+        "en": "Subḥānallāh",
+        "bn": "সুবহানাল্লাহ"
+      },
+      "translation": {
+        "en": "Glory be to Allah",
+        "bn": "আল্লাহ পবিত্র মহান।"
+      },
+      "notes": {
+        "en": "Read 33x",
+        "bn": "৩৩ বার পড়ুন"
+      },
+      "benefits": {
+        "en": null,
+        "bn": null
+      },
+      "reference": null,
+      "source_type": "unknown"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Tahmid",
+        "bn": "তাহমিদ"
+      },
+      "arabic": "الْحَمْدُ لِلَّهِ",
+      "transliteration": {
+        "en": "Alhamdulillāh",
+        "bn": "আলহামদুলিল্লাহ"
+      },
+      "translation": {
+        "en": "All praise is for Allah",
+        "bn": "সমস্ত প্রশংসা আল্লাহর।"
+      },
+      "notes": {
+        "en": "Read 33x",
+        "bn": "৩৩ বার পড়ুন"
+      },
+      "benefits": {
+        "en": null,
+        "bn": null
+      },
+      "reference": null,
+      "source_type": "unknown"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "Takbir",
+        "bn": "তাকবির"
+      },
+      "arabic": "اللهُ أَكْبَرُ",
+      "transliteration": {
+        "en": "Allāhu akbar",
+        "bn": "আল্লাহু আকবার"
+      },
+      "translation": {
+        "en": "Allah is the Greatest",
+        "bn": "আল্লাহ সর্বশ্রেষ্ঠ।"
+      },
+      "notes": {
+        "en": "Read 33x",
+        "bn": "৩৩ বার পড়ুন"
+      },
+      "benefits": {
+        "en": null,
+        "bn": null
+      },
+      "reference": null,
+      "source_type": "unknown"
+    },
+    {
+      "id": 8,
+      "title": {
+        "en": "There is No Partner for Allah, and To Him Belongs All Things",
+        "bn": "আল্লাহর কোনো শরিক নেই, সব কিছু তাঁরই"
+      },
+      "arabic": "لاَ إِلَـهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرُ",
+      "transliteration": {
+        "en": "Lā ilāha illāllāh waḥda, lā syarīka lah. Lahul mulku wa lahul ḥamdu wa huwa 'alā kulli syai'in qadīr",
+        "bn": "লা ইলাহা ইল্লাল্লাহু ওয়াহদাহু লা শারিকা লাহু, লাহুল মুলকু ওয়া লাহুল হামদু ওয়া হুয়া আলা কুল্লি শাইয়িন ক্বাদীর"
+      },
+      "translation": {
+        "en": "There is no deity worthy of worship except Allah alone, He has no partner. To Him belongs dominion and praise, and He is over all things competent.",
+        "bn": "আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি একক, তাঁর কোনো শরিক নেই। রাজত্ব তাঁরই, প্রশংসা তাঁরই, আর তিনি সব কিছুর উপর ক্ষমতাবান।"
+      },
+      "notes": {
+        "en": "Read 1x",
+        "bn": "১ বার পড়ুন"
+      },
+      "benefits": {
+        "en": "Whoever recites the dhikr above, his sins will be forgiven, even if they are as numerous as the foam on the ocean. Imam Nawawi, may Allah have mercy on him, said that the text of the hadith indicates that 'Subhanallah', 'Alhamdulillah', and 'Allahu akbar' are each recited 33 times separately.",
+        "bn": "যে ব্যক্তি এই জিকিরটি পাঠ করে, তার গুনাহ ক্ষমা করে দেওয়া হয়, যদিও তা সাগরের ফেনার মতো অসংখ্য হয়। ইমাম নববী রহমতুল্লাহি আলাইহি বলেছেন, হাদিসের বাক্য থেকে বুঝা যায় যে 'সুবহানাল্লাহ', 'আলহামদুলিল্লাহ' ও 'আল্লাহু আকবার' প্রত্যেকটি আলাদাভাবে ৩৩ বার পড়তে হয়।"
+      },
+      "reference": "Sharh Shahih Muslim, 5: 84",
+      "source_type": "hadith"
+    },
+    {
+      "id": 9,
+      "title": {
+        "en": "Ayat al-Kursi",
+        "bn": "আয়াতুল কুরসি"
+      },
+      "arabic": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+      "transliteration": {
+        "en": "Allāhu lā ilāha illā huwalḥayyul qayyụm, lā ta`khużuhụ sinatuw wa lā na`ụm, lahụ mā fis samāwāti wa mā fil arḍ, man żallażī yasyfa'u 'indahū illā bi`iżnih, ya'lamu mā baina aidīhim wa mā khalfahum, wa lā yuḥīṭụna bisyai`im min 'ilmihī illā bimā syā`, wasi'a kursiyyuhus samāwāti wal arḍ, wa lā ya`ụduhụ ḥifẓuhumā, wa huwal 'aliyyul 'aẓīm",
+        "bn": "আল্লাহু লা ইলাহা ইল্লা হুয়াল হাইয়্যুল ক্বাইয়্যুম, লা তা'খুযুহু সিনাতুঁ ওয়া লা নাউম, লাহু মা ফিস সামাওয়াতি ওয়া মা ফিল আরয, মান যাল্লাযী ইয়াশফা'উ ইনদাহু ইল্লা বিইজনিহি, ইয়া'লামু মা বাইনা আইদীহিম ওয়া মা খালফাহুম, ওয়া লা ইউহিতুনা বিশাইয়িম মিন ইলমিহি ইল্লা বিমা শা', ওয়াসিয়া কুরসিয়ুহুস সামাওয়াতি ওয়াল আরয, ওয়া লা ইয়াউদুহু হিফযোহুমা, ওয়া হুয়াল আলিয়্যুল আজীম"
+      },
+      "translation": {
+        "en": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+        "bn": "আল্লাহ — তিনি ছাড়া কোনো ইলাহ নেই, চিরঞ্জীব, সর্বসত্ত্বাধারক। তাঁকে তন্দ্রাও স্পর্শ করে না, ঘুমও নয়। আসমান-জমিনে যা কিছু আছে সব তাঁরই। তাঁর অনুমতি ছাড়া তাঁর কাছে কে সুপারিশ করতে পারে? তাঁদের সম্মুখে ও পশ্চাতে কী আছে তিনি জানেন। তাঁর জ্ঞানের যেটুকু তিনি ইচ্ছা করেন তা ব্যতীত তারা তাঁর জ্ঞানের কিছুই আয়ত্ত করতে পারে না। তাঁর কুরসী আসমানসমূহ ও জমিনকে বেষ্টন করে আছে, এবং এ দু'টিকে ধারণ করা তাঁর জন্য কষ্টকর নয়। আর তিনিই সুউচ্চ, সুমহান।"
+      },
+      "notes": {
+        "en": "Read 1x",
+        "bn": "১ বার পড়ুন"
+      },
+      "benefits": {
+        "en": "Whoever recites Ayat al-Kursi after finishing the prayer, nothing will prevent him from entering Paradise except death.",
+        "bn": "যে ব্যক্তি সালাত শেষে আয়াতুল কুরসি পাঠ করে, মৃত্যু ছাড়া আর কিছুই তাকে জান্নাতে প্রবেশে বাধা দেয় না।"
+      },
+      "reference": "HR. an-Nasai in Al-Kubro 9: 44. This hadith is declared sahih by Ibn Hibban, as mentioned by Ibn Hajar in Bulugh al-Maram",
+      "source_type": "hadith"
+    },
+    {
+      "id": 10,
+      "title": {
+        "en": "Al-Ikhlas",
+        "bn": "আল-ইখলাস"
+      },
+      "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ (1) ٱللَّهُ ٱلصَّمَدُ (2) لَمْ يَلِدْ وَلَمْ يُولَدْ (3) وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ (4)",
+      "transliteration": {
+        "en": "Qul huwallāhu aḥad (1) Allāhuṣ ṣamad (2) lam yalid wa lam yụlad (3) wa lam yakul lahụ kufuwan aḥad (4)",
+        "bn": "ক্বুল হুয়াল্লাহু আহাদ, আল্লাহুস সামাদ, লাম ইয়ালিদ ওয়া লাম ইউলাদ, ওয়া লাম ইয়াকুল্লাহু কুফুওয়ান আহাদ"
+      },
+      "translation": {
+        "en": "Say, \"He is Allah , [who is] One, (1) Allah , the Eternal Refuge. (2) He neither begets nor is born, (3) Nor is there to Him any equivalent.\" (4)",
+        "bn": "বলুন, তিনিই আল্লাহ, এক। আল্লাহ সমস্ত কিছুর অমুখাপেক্ষী। তিনি জন্ম দেননি এবং জন্মানওনি। আর তাঁর সমকক্ষ কেউ নেই।"
+      },
+      "notes": {
+        "en": "Read 3x",
+        "bn": "৩ বার পড়ুন"
+      },
+      "benefits": {
+        "en": "The Messenger of Allah, sallallahu 'alayhi wa sallam, said: Recite Qul huwallahu ahad, and Al-Mu'awwidhatayn (Al-Falaq and An-Nas) in the evening and morning three times, and it will suffice you (protect you) from everything.",
+        "bn": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: 'ক্বুল হুয়াল্লাহু আহাদ' এবং আল-মু'আউবিযাতাইন (আল-ফালাক ও আন-নাস) সকালে ও সন্ধ্যায় তিনবার পাঠ কর, এটি তোমার জন্য সব কিছু থেকে যথেষ্ট (রক্ষাকবচ) হবে।"
+      },
+      "reference": "HR. Abu Dawud No. 1523 and an-Nasa'i No. 1337. Al-Hafiz Abu Tahir said that the chain of this hadith is hasan",
+      "source_type": "hadith"
+    },
+    {
+      "id": 11,
+      "title": {
+        "en": "Al-Falaq",
+        "bn": "আল-ফালাক"
+      },
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ (1) مِن شَرِّ مَا خَلَقَ (2) وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ (3) وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ (4) وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ (5)",
+      "transliteration": {
+        "en": "Qul a'ụżu birabbil falaq (1) min syarri mā khalaq (2) wa min syarri gāsiqin iżā waqab (3) wa min syarrin naffāṡāti fil 'uqad (4) wa min syarri ḥāsidin iżā ḥasad (5)",
+        "bn": "ক্বুল আ'উযু বিরাব্বিল ফালাক্ব, মিন শাররি মা খালাক্ব, ওয়া মিন শাররি গসিক্বিন ইযা ওয়াক্বাব, ওয়া মিন শাররিন নাফফাছাতি ফিল উক্বাদ, ওয়া মিন শাররি হাসিদিন ইযা হাসাদ"
+      },
+      "translation": {
+        "en": "Say, \"I seek refuge in the Lord of daybreak (1) From the evil of that which He created (2) And from the evil of darkness when it settles (3) And from the evil of the blowers in knots (4) And from the evil of an envier when he envies.\" (5)",
+        "bn": "বলুন, আমি আশ্রয় গ্রহণ করছি প্রভাতের প্রভুর। তিনি যা সৃষ্টি করেছেন তার অনিষ্ট থেকে। এবং অন্ধকার রাত্রির অনিষ্ট থেকে, যখন তা ঢেকে দেয়। এবং গ্রন্থিসমূহে ফুঁক দেওয়া নারীদের অনিষ্ট থেকে। এবং হিংসুকের অনিষ্ট থেকে, যখন সে হিংসা করে।"
+      },
+      "notes": {
+        "en": "Read 3x",
+        "bn": "৩ বার পড়ুন"
+      },
+      "benefits": {
+        "en": "The Messenger of Allah, sallallahu 'alayhi wa sallam, said: Recite Qul huwallahu ahad, and Al-Mu'awwidhatayn (Al-Falaq and An-Nas) in the evening and morning three times, and it will suffice you (protect you) from everything.",
+        "bn": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: 'ক্বুল হুয়াল্লাহু আহাদ' এবং আল-মু'আউবিযাতাইন (আল-ফালাক ও আন-নাস) সকালে ও সন্ধ্যায় তিনবার পাঠ কর, এটি তোমার জন্য সব কিছু থেকে যথেষ্ট (রক্ষাকবচ) হবে।"
+      },
+      "reference": "HR. Abu Dawud No. 1523 and an-Nasa'i No. 1337. Al-Hafiz Abu Tahir said that the chain of this hadith is hasan",
+      "source_type": "hadith"
+    },
+    {
+      "id": 12,
+      "title": {
+        "en": "An-Nas",
+        "bn": "আন-নাস"
+      },
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ (1) مَلِكِ ٱلنَّاسِ (2) إِلَٰهِ ٱلنَّاسِ (3) مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ (4) ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ (5) مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ (6)",
+      "transliteration": {
+        "en": "Qul a'ụżu birabbin nās (1) malikin nās (2) ilāhin nās (3) min syarril waswāsil khannās (4) allażī yuwaswisu fī ṣudụrin nās (5) minal jinnati wan nās (6)",
+        "bn": "ক্বুল আ'উযু বিরাব্বিন নাস, মালিকিন নাস, ইলাহিন নাস, মিন শাররিল ওয়াসওয়াসিল খান্নাস, আল্লাযী ইউওয়াসউইসু ফি সুদুরিন নাস, মিনাল জিন্নাতি ওয়ান নাস"
+      },
+      "translation": {
+        "en": "Say, \"I seek refuge in the Lord of mankind, (1) The King of mankind. (2) The God of mankind, (3) From the evil of the whisperer who withdraws, (4) Who whispers in the breasts of mankind, (5) Of the jinn and mankind.\" (6)",
+        "bn": "বলুন, আমি আশ্রয় গ্রহণ করছি মানুষের প্রভুর। মানুষের অধিপতির। মানুষের ইলাহর। কুমন্ত্রণাদাতার অনিষ্ট থেকে, যে কুমন্ত্রণা দিয়ে সরে যায়। যে কুমন্ত্রণা দেয় মানুষের বুকে। জিন ও মানুষের মধ্য থেকে।"
+      },
+      "notes": {
+        "en": "Read 3x",
+        "bn": "৩ বার পড়ুন"
+      },
+      "benefits": {
+        "en": "The Messenger of Allah, sallallahu 'alayhi wa sallam, said: Recite Qul huwallahu ahad, and Al-Mu'awwidhatayn (Al-Falaq and An-Nas) in the evening and morning three times, and it will suffice you (protect you) from everything.",
+        "bn": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন: 'ক্বুল হুয়াল্লাহু আহাদ' এবং আল-মু'আউবিযাতাইন (আল-ফালাক ও আন-নাস) সকালে ও সন্ধ্যায় তিনবার পাঠ কর, এটি তোমার জন্য সব কিছু থেকে যথেষ্ট (রক্ষাকবচ) হবে।"
+      },
+      "reference": "HR. Abu Dawud No. 1523 and an-Nasa'i No. 1337. Al-Hafiz Abu Tahir said that the chain of this hadith is hasan",
+      "source_type": "hadith"
+    },
+    {
+      "id": 13,
+      "title": {
+        "en": "Supplication for Beneficial Knowledge, Good Provision, and Accepted Deeds",
+        "bn": "উপকারী জ্ঞান, হালাল রিজিক ও কবুল আমলের দোয়া"
+      },
+      "arabic": "اللَّهُمَّ إِنِّى أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلاً مُتَقَبَّلاً",
+      "transliteration": {
+        "en": "Allahumma innī as'aluka 'ilman nāfi'a, wa rizqan thayyiba, wa 'amalan mutaqabbala",
+        "bn": "আল্লাহুম্মা ইন্নী আস'আলুকা ইলমান নাফি'আ, ওয়া রিযক্বান ত্বাইয়্যিবা, ওয়া আমালান মুতাকাব্বিলা"
+      },
+      "translation": {
+        "en": "O Allah, I ask You for beneficial knowledge, good provision, and accepted deeds.",
+        "bn": "হে আল্লাহ! আমি আপনার কাছে উপকারী জ্ঞান, হালাল রিজিক ও কবুল আমল প্রার্থনা করছি।"
+      },
+      "notes": {
+        "en": "Read 1x after the salam of Fajr prayer",
+        "bn": "ফজর সালাতের সালাম শেষে ১ বার পড়ুন"
+      },
+      "benefits": {
+        "en": "Beneficial knowledge is a provision that makes life easier, obtaining good provision is a person's goal in working, and accepted deeds are the hope of every person who performs good deeds. Therefore, a servant should always ask for these 3 things every morning before starting their various activities.",
+        "bn": "উপকারী জ্ঞান হলো এমন সংস্থান যা জীবনকে সহজ করে, ভালো রিজিক অর্জনই মানুষের কাজের লক্ষ্য, আর কবুল আমলই সৎকর্মীর আশা। তাই বান্দার উচিত প্রতিদিন সকালে কাজ শুরু করার আগে এই তিনটি জিনিস আল্লাহর কাছে চাওয়া।"
+      },
+      "reference": "HR. Ibn Majah No. 925 and Ahmad 6: 305, 322. Al-Hafiz Abu Tahir said that this hadith is sahih",
+      "source_type": "hadith"
+    }
+  ]
+}

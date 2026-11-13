@@ -1,0 +1,56 @@
+{
+  "source": "https://github.com/fitrahive/dua-dhikr",
+  "license": "MIT",
+  "languages": [
+    "en",
+    "bn"
+  ],
+  "total_duas": 97,
+  "categories": [
+    {
+      "slug": "morning-dhikr",
+      "name": {
+        "en": "Morning Dhikr",
+        "bn": "সকালের জিকির"
+      },
+      "count": 19,
+      "file": "morning-dhikr.json"
+    },
+    {
+      "slug": "evening-dhikr",
+      "name": {
+        "en": "Evening Dhikr",
+        "bn": "সন্ধ্যার জিকির"
+      },
+      "count": 19,
+      "file": "evening-dhikr.json"
+    },
+    {
+      "slug": "daily-dua",
+      "name": {
+        "en": "Daily Dua",
+        "bn": "দৈনন্দিন দোয়া"
+      },
+      "count": 38,
+      "file": "daily-dua.json"
+    },
+    {
+      "slug": "selected-dua",
+      "name": {
+        "en": "Selected Dua",
+        "bn": "নির্বাচিত দোয়া"
+      },
+      "count": 8,
+      "file": "selected-dua.json"
+    },
+    {
+      "slug": "dhikr-after-salah",
+      "name": {
+        "en": "Dhikr After Salah",
+        "bn": "সালাতের পরের জিকির"
+      },
+      "count": 13,
+      "file": "dhikr-after-salah.json"
+    }
+  ]
+}
